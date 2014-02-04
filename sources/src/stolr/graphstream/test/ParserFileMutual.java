@@ -63,6 +63,7 @@ public class ParserFileMutual {
 							
 												
 							uGeneral.getMutualFriends().add(uEnCommun);
+							
 						
 						}
 						

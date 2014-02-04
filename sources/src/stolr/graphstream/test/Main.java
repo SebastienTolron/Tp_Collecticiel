@@ -37,7 +37,7 @@ public class Main {
 	private static double r = -1.3;
 	private static double force = 3;
 	private static ProxyPipe fromViewer;
-	protected static String styleSheet ="edge.cut { fill-color: rgba(255,0,0,1.0); }" ; 
+	protected static String styleSheet ="edge.edgeRumeur { fill-color: rgba(255,0,0,1.0); }" ; 
 	private static double cutThreshold = 1;	
 	
 	public static void main(String[] args) {
@@ -70,10 +70,17 @@ public class Main {
 		layout.addSink(graph);			
 		graph.addSink(layout);	
 		fromViewer = viewer.newThreadProxyOnGraphicGraph();	// 1
-		fromViewer.addSink(graph);	
-	
-	
-		layout.configure(a, r, true, force);	// 3
+		fromViewer.addSink(graph);		
+		layout.configure(a, r, true, force);	
+
+		
+		// Creation d'un nouveau Thread pour la propagation d'une rumeur
+		
+		ColorationThread tr1 = new ColorationThread();
+		tr1.run(graph,userGraph);
+		
+		// thread qui colorie le graph.
+		
 		while(! graph.hasAttribute("ui.viewClosed")) {
 			fromViewer.pump();
 			layout.compute();
