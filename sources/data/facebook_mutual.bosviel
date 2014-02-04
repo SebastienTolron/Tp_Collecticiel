@@ -9,31 +9,38 @@
           "data": [
             {
               "name": "Reuno La Paix Rot", 
-              "id": "545488741"
+              "id": "545488741",
+        	  "confiance": "1"
             }, 
             {
               "name": "Victor TorNerae", 
-              "id": "595646831"
+              "id": "595646831",
+        	  "confiance": "2"
             }, 
             {
               "name": "Alice Barbier", 
-              "id": "1275303494"
+              "id": "1275303494",
+        	  "confiance": "3"
             }, 
             {
               "name": "Rodolphe Lepigre", 
-              "id": "1486652152"
+              "id": "1486652152",
+        	  "confiance": "3"
             }, 
             {
               "name": "Rudy Regazzoni", 
-              "id": "1622406859"
+              "id": "1622406859",
+        	  "confiance": "1"
             }, 
             {
               "name": "Raphael Montouchet", 
-              "id": "100001368081821"
+              "id": "100001368081821",
+        	  "confiance": "1"
             }, 
             {
-              "name": "François Colin", 
-              "id": "100002397990292"
+              "name": "Franï¿½ois Colin", 
+              "id": "100002397990292",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -47,27 +54,33 @@
           "data": [
             {
               "name": "Jalil Djabelkhir", 
-              "id": "526039085"
+              "id": "526039085",
+        	  "confiance": "1"
             }, 
             {
               "name": "Victor TorNerae", 
-              "id": "595646831"
+              "id": "595646831",
+        	  "confiance": "2"
             }, 
             {
               "name": "Rodolphe Lepigre", 
-              "id": "1486652152"
+              "id": "1486652152",
+        	  "confiance": "1"
             }, 
             {
               "name": "Lionel Richter", 
-              "id": "100000486106660"
+              "id": "100000486106660",
+        	  "confiance": "3"
             }, 
             {
               "name": "Raphael Montouchet", 
-              "id": "100001368081821"
+              "id": "100001368081821",
+        	  "confiance": "2"
             }, 
             {
-              "name": "François Colin", 
-              "id": "100002397990292"
+              "name": "Franï¿½ois Colin", 
+              "id": "100002397990292",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -81,31 +94,38 @@
           "data": [
             {
               "name": "Franck Jacob", 
-              "id": "580626585"
+              "id": "580626585",
+        	  "confiance": "1"
             }, 
             {
               "name": "Thomas Boyer", 
-              "id": "697614500"
+              "id": "697614500",
+        	  "confiance": "1"
             }, 
             {
               "name": "Alexandre Pugeat", 
-              "id": "772474610"
+              "id": "772474610",
+        	  "confiance": "3"
             }, 
             {
               "name": "Alexandre Vasseur", 
-              "id": "1143474855"
+              "id": "1143474855",
+        	  "confiance": "2"
             }, 
             {
               "name": "Jonathan Djo", 
-              "id": "1147213310"
+              "id": "1147213310",
+        	  "confiance": "2"
             }, 
             {
               "name": "Cyrille Dumortier", 
-              "id": "1149013101"
+              "id": "1149013101",
+        	  "confiance": "3"
             }, 
             {
               "name": "Matthieu Perrin", 
-              "id": "100000646034740"
+              "id": "100000646034740",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -119,31 +139,38 @@
           "data": [
             {
               "name": "Franck Jacob", 
-              "id": "580626585"
+              "id": "580626585",
+        	  "confiance": "1"
             }, 
             {
               "name": "Thomas Boyer", 
-              "id": "697614500"
+              "id": "697614500",
+        	  "confiance": "3"
             }, 
             {
               "name": "Alexandre Pugeat", 
-              "id": "772474610"
+              "id": "772474610",
+        	  "confiance": "2"
             }, 
             {
               "name": "Alexandre Vasseur", 
-              "id": "1143474855"
+              "id": "1143474855",
+        	  "confiance": "1"
             }, 
             {
               "name": "Cyrille Dumortier", 
-              "id": "1149013101"
+              "id": "1149013101",
+        	  "confiance": "2"
             }, 
             {
               "name": "Sylvain Ouilleres", 
-              "id": "100000195521669"
+              "id": "100000195521669",
+        	  "confiance": "1"
             }, 
             {
               "name": "Matthieu Perrin", 
-              "id": "100000646034740"
+              "id": "100000646034740",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -157,31 +184,38 @@
           "data": [
             {
               "name": "Bastien Morier", 
-              "id": "558826858"
+              "id": "558826858",
+        	  "confiance": "1"
             }, 
             {
               "name": "Flo Cavallo", 
-              "id": "565914717"
+              "id": "565914717",
+        	  "confiance": "2"
             }, 
             {
               "name": "Thomas Boyer", 
-              "id": "697614500"
+              "id": "697614500",
+        	  "confiance": "3"
             }, 
             {
               "name": "Alexandre Pugeat", 
-              "id": "772474610"
+              "id": "772474610",
+        	  "confiance": "2"
             }, 
             {
               "name": "Cyrille Dumortier", 
-              "id": "1149013101"
+              "id": "1149013101",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Alizée Jacquot", 
-              "id": "1278501526"
+              "name": "Alizï¿½e Jacquot", 
+              "id": "1278501526",
+        	  "confiance": "1"
             }, 
             {
               "name": "Matthieu Perrin", 
-              "id": "100000646034740"
+              "id": "100000646034740",
+        	  "confiance": "3"
             }
           ], 
           "paging": {
@@ -195,67 +229,83 @@
           "data": [
             {
               "name": "Jalil Djabelkhir", 
-              "id": "526039085"
+              "id": "526039085",
+        	  "confiance": "3"
             }, 
             {
               "name": "Reuno La Paix Rot", 
-              "id": "545488741"
+              "id": "545488741",
+        	  "confiance": "1"
             }, 
             {
               "name": "Pierre Guillot", 
-              "id": "638013018"
+              "id": "638013018",
+        	  "confiance": "1"
             }, 
             {
               "name": "Thibaut Bouly", 
-              "id": "677560667"
+              "id": "677560667",
+        	  "confiance": "1"
             }, 
             {
               "name": "Jean-Charles Marty", 
-              "id": "1027283956"
+              "id": "1027283956",
+        	  "confiance": "3"
             }, 
             {
               "name": "Adrien Lombard", 
-              "id": "1396212502"
+              "id": "1396212502",
+        	  "confiance": "1"
             }, 
             {
               "name": "Joffrey Moumou", 
-              "id": "1437115924"
+              "id": "1437115924",
+        	  "confiance": "2"
             }, 
             {
               "name": "Aymeric Assier", 
-              "id": "1442522522"
+              "id": "1442522522",
+        	  "confiance": "1"
             }, 
             {
               "name": "Rodolphe Lepigre", 
-              "id": "1486652152"
+              "id": "1486652152",
+        	  "confiance": "1"
             }, 
             {
               "name": "Anthony Rey", 
-              "id": "1516030355"
+              "id": "1516030355",
+        	  "confiance": "2"
             }, 
             {
               "name": "Julien Plateau", 
-              "id": "1600524351"
+              "id": "1600524351",
+        	  "confiance": "3"
             }, 
             {
               "name": "Rudy Regazzoni", 
-              "id": "1622406859"
+              "id": "1622406859",
+        	  "confiance": "1"
             }, 
             {
               "name": "Lionel Richter", 
-              "id": "100000486106660"
+              "id": "100000486106660",
+        	  "confiance": "3"
             }, 
             {
               "name": "Raphael Montouchet", 
-              "id": "100001368081821"
+              "id": "100001368081821",
+        	  "confiance": "1"
             }, 
             {
               "name": "Eispri Stic", 
-              "id": "100002381065572"
+              "id": "100002381065572",
+        	  "confiance": "3"
             }, 
             {
-              "name": "François Colin", 
-              "id": "100002397990292"
+              "name": "Franï¿½ois Colin", 
+              "id": "100002397990292",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -269,47 +319,58 @@
           "data": [
             {
               "name": "Karine Girard", 
-              "id": "725217994"
+              "id": "725217994",
+        	  "confiance": "1"
             }, 
             {
               "name": "Fabien Ardiri", 
-              "id": "1066810712"
+              "id": "1066810712",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Rémi Trouillon", 
-              "id": "1140174162"
+              "name": "Rï¿½mi Trouillon", 
+              "id": "1140174162",
+        	  "confiance": "1"
             }, 
             {
               "name": "Nicolas Paraz", 
-              "id": "1172680358"
+              "id": "1172680358",
+        	  "confiance": "1"
             }, 
             {
               "name": "Alban Derrier", 
-              "id": "1241917975"
+              "id": "1241917975",
+        	  "confiance": "3"
             }, 
             {
               "name": "Mickael Magnin", 
-              "id": "1492743445"
+              "id": "1492743445",
+        	  "confiance": "2"
             }, 
             {
               "name": "Joss Derrier", 
-              "id": "1529178882"
+              "id": "1529178882",
+        	  "confiance": "1"
             }, 
             {
               "name": "Anthony Muscara", 
-              "id": "1548909381"
+              "id": "1548909381",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Cécile Giraud", 
-              "id": "1568672808"
+              "name": "Cï¿½cile Giraud", 
+              "id": "1568672808",
+        	  "confiance": "1"
             }, 
             {
               "name": "Saint-Jean De-Maurienne", 
-              "id": "1707015888"
+              "id": "1707015888",
+        	  "confiance": "3"
             }, 
             {
               "name": "Dat' Motos", 
-              "id": "100001187713756"
+              "id": "100001187713756",
+        	  "confiance": "2"
             }
           ], 
           "paging": {
@@ -323,63 +384,78 @@
           "data": [
             {
               "name": "Victor TorNerae", 
-              "id": "595646831"
+              "id": "595646831",
+        	  "confiance": "1"
             }, 
             {
               "name": "Thibaut Bouly", 
-              "id": "677560667"
+              "id": "677560667",
+        	  "confiance": "3"
             }, 
             {
-              "name": "Noémie Lemaire", 
-              "id": "1001384540"
+              "name": "Noï¿½mie Lemaire", 
+              "id": "1001384540",
+        	  "confiance": "1"
             }, 
             {
               "name": "Jean-Charles Marty", 
-              "id": "1027283956"
+              "id": "1027283956",
+        	  "confiance": "1"
             }, 
             {
               "name": "Adrien Lombard", 
-              "id": "1396212502"
+              "id": "1396212502",
+        	  "confiance": "1"
             }, 
             {
               "name": "Joffrey Moumou", 
-              "id": "1437115924"
+              "id": "1437115924",
+        	  "confiance": "3"
             }, 
             {
               "name": "Aymeric Assier", 
-              "id": "1442522522"
+              "id": "1442522522",
+        	  "confiance": "2"
             }, 
             {
               "name": "Rodolphe Lepigre", 
-              "id": "1486652152"
+              "id": "1486652152",
+        	  "confiance": "1"
             }, 
             {
               "name": "Claire Rollinger", 
-              "id": "1580750706"
+              "id": "1580750706",
+        	  "confiance": "3"
             }, 
             {
               "name": "Rudy Regazzoni", 
-              "id": "1622406859"
+              "id": "1622406859",
+        	  "confiance": "3"
             }, 
             {
               "name": "Lionel Richter", 
-              "id": "100000486106660"
+              "id": "100000486106660",
+        	  "confiance": "1"
             }, 
             {
               "name": "Raphael Montouchet", 
-              "id": "100001368081821"
+              "id": "100001368081821",
+        	  "confiance": "1"
             }, 
             {
               "name": "Henri Bensalouf", 
-              "id": "100002122118584"
+              "id": "100002122118584",
+        	  "confiance": "2"
             }, 
             {
               "name": "Eispri Stic", 
-              "id": "100002381065572"
+              "id": "100002381065572",
+        	  "confiance": "1"
             }, 
             {
-              "name": "François Colin", 
-              "id": "100002397990292"
+              "name": "Franï¿½ois Colin", 
+              "id": "100002397990292",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -393,55 +469,68 @@
           "data": [
             {
               "name": "Victor TorNerae", 
-              "id": "595646831"
+              "id": "595646831",
+        	  "confiance": "3"
             }, 
             {
               "name": "Pierre Guillot", 
-              "id": "638013018"
+              "id": "638013018",
+        	  "confiance": "2"
             }, 
             {
               "name": "Jean-Charles Marty", 
-              "id": "1027283956"
+              "id": "1027283956",
+        	  "confiance": "1"
             }, 
             {
               "name": "Adrien Lombard", 
-              "id": "1396212502"
+              "id": "1396212502",
+        	  "confiance": "3"
             }, 
             {
               "name": "Joffrey Moumou", 
-              "id": "1437115924"
+              "id": "1437115924",
+        	  "confiance": "1"
             }, 
             {
               "name": "Aymeric Assier", 
-              "id": "1442522522"
+              "id": "1442522522",
+        	  "confiance": "2"
             }, 
             {
               "name": "Claire Rollinger", 
-              "id": "1580750706"
+              "id": "1580750706",
+        	  "confiance": "2"
             }, 
             {
               "name": "Julien Plateau", 
-              "id": "1600524351"
+              "id": "1600524351",
+        	  "confiance": "3"
             }, 
             {
               "name": "Rudy Regazzoni", 
-              "id": "1622406859"
+              "id": "1622406859",
+        	  "confiance": "2"
             }, 
             {
               "name": "Raphael Montouchet", 
-              "id": "100001368081821"
+              "id": "100001368081821",
+        	  "confiance": "2"
             }, 
             {
               "name": "Henri Bensalouf", 
-              "id": "100002122118584"
+              "id": "100002122118584",
+        	  "confiance": "1"
             }, 
             {
               "name": "Eispri Stic", 
-              "id": "100002381065572"
+              "id": "100002381065572",
+        	  "confiance": "1"
             }, 
             {
-              "name": "François Colin", 
-              "id": "100002397990292"
+              "name": "Franï¿½ois Colin", 
+              "id": "100002397990292",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -454,24 +543,29 @@
         "mutualfriends": {
           "data": [
             {
-              "name": "Cédric Bosviel", 
-              "id": "1011271044"
+              "name": "Cï¿½dric Bosviel", 
+              "id": "1011271044",
+        	  "confiance": "1"
             }, 
             {
-              "name": "François Guiraud", 
-              "id": "1554286201"
+              "name": "Franï¿½ois Guiraud", 
+              "id": "1554286201",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Céline Bonnaure", 
-              "id": "1639900412"
+              "name": "Cï¿½line Bonnaure", 
+              "id": "1639900412",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Gisèle Guiraud Tourillon", 
-              "id": "100000306661270"
+              "name": "Gisï¿½le Guiraud Tourillon", 
+              "id": "100000306661270",
+        	  "confiance": "1"
             }, 
             {
               "name": "Laura Tourillon", 
-              "id": "100000741533418"
+              "id": "100000741533418",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -485,15 +579,18 @@
           "data": [
             {
               "name": "Fabien Ardiri", 
-              "id": "1066810712"
+              "id": "1066810712",
+        	  "confiance": "2"
             }, 
             {
-              "name": "Rémi Trouillon", 
-              "id": "1140174162"
+              "name": "Rï¿½mi Trouillon", 
+              "id": "1140174162",
+        	  "confiance": "3"
             }, 
             {
               "name": "Alban Derrier", 
-              "id": "1241917975"
+              "id": "1241917975",
+        	  "confiance": "2"
             }
           ], 
           "paging": {
@@ -507,43 +604,53 @@
           "data": [
             {
               "name": "Bastien Morier", 
-              "id": "558826858"
+              "id": "558826858",
+        	  "confiance": "1"
             }, 
             {
               "name": "Flo Cavallo", 
-              "id": "565914717"
+              "id": "565914717",
+        	  "confiance": "3"
             }, 
             {
               "name": "Franck Jacob", 
-              "id": "580626585"
+              "id": "580626585",
+        	  "confiance": "2"
             }, 
             {
               "name": "Alexandre Pugeat", 
-              "id": "772474610"
+              "id": "772474610",
+        	  "confiance": "2"
             }, 
             {
               "name": "Alexandre Vasseur", 
-              "id": "1143474855"
+              "id": "1143474855",
+        	  "confiance": "1"
             }, 
             {
               "name": "Jonathan Djo", 
-              "id": "1147213310"
+              "id": "1147213310",
+        	  "confiance": "1"
             }, 
             {
               "name": "Cyrille Dumortier", 
-              "id": "1149013101"
+              "id": "1149013101",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Alizée Jacquot", 
-              "id": "1278501526"
+              "name": "Alizï¿½e Jacquot", 
+              "id": "1278501526",
+        	  "confiance": "3"
             }, 
             {
               "name": "Sylvain Ouilleres", 
-              "id": "100000195521669"
+              "id": "100000195521669",
+        	  "confiance": "2"
             }, 
             {
               "name": "Matthieu Perrin", 
-              "id": "100000646034740"
+              "id": "100000646034740",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -557,19 +664,23 @@
           "data": [
             {
               "name": "Pasquier Kevin", 
-              "id": "634129604"
+              "id": "634129604",
+        	  "confiance": "1"
             }, 
             {
               "name": "Nicolas Paraz", 
-              "id": "1172680358"
+              "id": "1172680358",
+        	  "confiance": "3"
             }, 
             {
               "name": "Joris Sammassimo", 
-              "id": "1361972097"
+              "id": "1361972097",
+        	  "confiance": "2"
             }, 
             {
-              "name": "Cécile Giraud", 
-              "id": "1568672808"
+              "name": "Cï¿½cile Giraud", 
+              "id": "1568672808",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -583,43 +694,53 @@
           "data": [
             {
               "name": "Jean-Charles Marty", 
-              "id": "1027283956"
+              "id": "1027283956",
+        	  "confiance": "1"
             }, 
             {
               "name": "Antho Avy", 
-              "id": "1032562311"
+              "id": "1032562311",
+        	  "confiance": "1"
             }, 
             {
               "name": "Sebastien Tolron", 
-              "id": "1149983596"
+              "id": "1149983596",
+        	  "confiance": "2"
             }, 
             {
               "name": "Hugo Tanou Kiaven'outo", 
-              "id": "1270877364"
+              "id": "1270877364",
+        	  "confiance": "3"
             }, 
             {
               "name": "Jeremy Marois", 
-              "id": "1329818667"
+              "id": "1329818667",
+        	  "confiance": "1"
             }, 
             {
               "name": "Yohann Berthon", 
-              "id": "1449220723"
+              "id": "1449220723",
+        	  "confiance": "1"
             }, 
             {
               "name": "Anthony Rey", 
-              "id": "1516030355"
+              "id": "1516030355",
+        	  "confiance": "2"
             }, 
             {
               "name": "Claire Rollinger", 
-              "id": "1580750706"
+              "id": "1580750706",
+        	  "confiance": "2"
             }, 
             {
               "name": "Rudy Regazzoni", 
-              "id": "1622406859"
+              "id": "1622406859",
+        	  "confiance": "1"
             }, 
             {
               "name": "Giuseppe Cindolo", 
-              "id": "100001640748402"
+              "id": "100001640748402",
+        	  "confiance": "3"
             }
           ], 
           "paging": {
@@ -633,31 +754,38 @@
           "data": [
             {
               "name": "Bastien Morier", 
-              "id": "558826858"
+              "id": "558826858",
+        	  "confiance": "1"
             }, 
             {
               "name": "Flo Cavallo", 
-              "id": "565914717"
+              "id": "565914717",
+        	  "confiance": "1"
             }, 
             {
               "name": "Franck Jacob", 
-              "id": "580626585"
+              "id": "580626585",
+        	  "confiance": "2"
             }, 
             {
               "name": "Thomas Boyer", 
-              "id": "697614500"
+              "id": "697614500",
+        	  "confiance": "1"
             }, 
             {
               "name": "Alexandre Vasseur", 
-              "id": "1143474855"
+              "id": "1143474855",
+        	  "confiance": "3"
             }, 
             {
-              "name": "Alizée Jacquot", 
-              "id": "1278501526"
+              "name": "Alizï¿½e Jacquot", 
+              "id": "1278501526",
+        	  "confiance": "1"
             }, 
             {
               "name": "Matthieu Perrin", 
-              "id": "100000646034740"
+              "id": "100000646034740",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -671,63 +799,78 @@
           "data": [
             {
               "name": "Pierre Guillot", 
-              "id": "638013018"
+              "id": "638013018",
+        	  "confiance": "1"
             }, 
             {
               "name": "Jean-Charles Marty", 
-              "id": "1027283956"
+              "id": "1027283956",
+        	  "confiance": "1"
             }, 
             {
               "name": "Alice Barbier", 
-              "id": "1275303494"
+              "id": "1275303494",
+        	  "confiance": "2"
             }, 
             {
               "name": "Adrien Lombard", 
-              "id": "1396212502"
+              "id": "1396212502",
+        	  "confiance": "1"
             }, 
             {
               "name": "Joffrey Moumou", 
-              "id": "1437115924"
+              "id": "1437115924",
+        	  "confiance": "2"
             }, 
             {
               "name": "Aymeric Assier", 
-              "id": "1442522522"
+              "id": "1442522522",
+        	  "confiance": "1"
             }, 
             {
               "name": "Rodolphe Lepigre", 
-              "id": "1486652152"
+              "id": "1486652152",
+        	  "confiance": "1"
             }, 
             {
               "name": "Claire Rollinger", 
-              "id": "1580750706"
+              "id": "1580750706",
+        	  "confiance": "3"
             }, 
             {
               "name": "Julien Plateau", 
-              "id": "1600524351"
+              "id": "1600524351",
+        	  "confiance": "3"
             }, 
             {
               "name": "Rudy Regazzoni", 
-              "id": "1622406859"
+              "id": "1622406859",
+        	  "confiance": "1"
             }, 
             {
               "name": "Lionel Richter", 
-              "id": "100000486106660"
+              "id": "100000486106660",
+        	  "confiance": "1"
             }, 
             {
               "name": "Raphael Montouchet", 
-              "id": "100001368081821"
+              "id": "100001368081821",
+        	  "confiance": "1"
             }, 
             {
               "name": "Henri Bensalouf", 
-              "id": "100002122118584"
+              "id": "100002122118584",
+        	  "confiance": "3"
             }, 
             {
               "name": "Eispri Stic", 
-              "id": "100002381065572"
+              "id": "100002381065572",
+        	  "confiance": "2"
             }, 
             {
-              "name": "François Colin", 
-              "id": "100002397990292"
+              "name": "Franï¿½ois Colin", 
+              "id": "100002397990292",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -741,39 +884,48 @@
           "data": [
             {
               "name": "Lulith Hichihara", 
-              "id": "690808183"
+              "id": "690808183",
+        	  "confiance": "3"
             }, 
             {
               "name": "Nicolas Paraz", 
-              "id": "1172680358"
+              "id": "1172680358",
+        	  "confiance": "2"
             }, 
             {
               "name": "Laure Legrand", 
-              "id": "1191842232"
+              "id": "1191842232",
+        	  "confiance": "1"
             }, 
             {
               "name": "Marjorie Girard", 
-              "id": "1519964393"
+              "id": "1519964393",
+        	  "confiance": "1"
             }, 
             {
               "name": "Joss Derrier", 
-              "id": "1529178882"
+              "id": "1529178882",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Céline Bonnaure", 
-              "id": "1639900412"
+              "name": "Cï¿½line Bonnaure", 
+              "id": "1639900412",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Gisèle Guiraud Tourillon", 
-              "id": "100000306661270"
+              "name": "Gisï¿½le Guiraud Tourillon", 
+              "id": "100000306661270",
+        	  "confiance": "1"
             }, 
             {
               "name": "Laura Tourillon", 
-              "id": "100000741533418"
+              "id": "100000741533418",
+        	  "confiance": "1"
             }, 
             {
               "name": "Martin Bonnaure", 
-              "id": "100003720176250"
+              "id": "100003720176250",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -787,31 +939,38 @@
           "data": [
             {
               "name": "Dom Antonacci", 
-              "id": "1199884223"
+              "id": "1199884223",
+        	  "confiance": "1"
             }, 
             {
               "name": "Romain Cartier-Lange", 
-              "id": "1353126619"
+              "id": "1353126619",
+        	  "confiance": "2"
             }, 
             {
               "name": "Joris Sammassimo", 
-              "id": "1361972097"
+              "id": "1361972097",
+        	  "confiance": "1"
             }, 
             {
               "name": "Ludovic Donteville", 
-              "id": "1645430547"
+              "id": "1645430547",
+        	  "confiance": "3"
             }, 
             {
               "name": "Bertrand Rollet", 
-              "id": "1784303529"
+              "id": "1784303529",
+        	  "confiance": "3"
             }, 
             {
               "name": "Boris Forestier", 
-              "id": "100000528423411"
+              "id": "100000528423411",
+        	  "confiance": "3"
             }, 
             {
-              "name": "François Colin", 
-              "id": "100002397990292"
+              "name": "Franï¿½ois Colin", 
+              "id": "100002397990292",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -825,87 +984,108 @@
           "data": [
             {
               "name": "Victor TorNerae", 
-              "id": "595646831"
+              "id": "595646831",
+        	  "confiance": "1"
             }, 
             {
               "name": "Pierre Guillot", 
-              "id": "638013018"
+              "id": "638013018",
+        	  "confiance": "1"
             }, 
             {
               "name": "Thibaut Bouly", 
-              "id": "677560667"
+              "id": "677560667",
+        	  "confiance": "2"
             }, 
             {
-              "name": "François Profizi", 
-              "id": "741389748"
+              "name": "Franï¿½ois Profizi", 
+              "id": "741389748",
+        	  "confiance": "2"
             }, 
             {
-              "name": "Noémie Lemaire", 
-              "id": "1001384540"
+              "name": "Noï¿½mie Lemaire", 
+              "id": "1001384540",
+        	  "confiance": "2"
             }, 
             {
               "name": "Sebastien Tolron", 
-              "id": "1149983596"
+              "id": "1149983596",
+        	  "confiance": "3"
             }, 
             {
               "name": "Valentin Buisson", 
-              "id": "1188746465"
+              "id": "1188746465",
+        	  "confiance": "3"
             }, 
             {
               "name": "Adrien Lombard", 
-              "id": "1396212502"
+              "id": "1396212502",
+        	  "confiance": "1"
             }, 
             {
               "name": "Aymeric Assier", 
-              "id": "1442522522"
+              "id": "1442522522",
+        	  "confiance": "1"
             }, 
             {
               "name": "Yohann Berthon", 
-              "id": "1449220723"
+              "id": "1449220723",
+        	  "confiance": "1"
             }, 
             {
               "name": "Rodolphe Lepigre", 
-              "id": "1486652152"
+              "id": "1486652152",
+        	  "confiance": "3"
             }, 
             {
               "name": "Anthony Rey", 
-              "id": "1516030355"
+              "id": "1516030355",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Rémi Geny-Dumont", 
-              "id": "1550315312"
+              "name": "Rï¿½mi Geny-Dumont", 
+              "id": "1550315312",
+        	  "confiance": "1"
             }, 
             {
               "name": "Claire Rollinger", 
-              "id": "1580750706"
+              "id": "1580750706",
+        	  "confiance": "1"
             }, 
             {
               "name": "Julien Plateau", 
-              "id": "1600524351"
+              "id": "1600524351",
+        	  "confiance": "2"
             }, 
             {
               "name": "Rudy Regazzoni", 
-              "id": "1622406859"
+              "id": "1622406859",
+        	  "confiance": "1"
             }, 
             {
               "name": "Lionel Richter", 
-              "id": "100000486106660"
+              "id": "100000486106660",
+        	  "confiance": "1"
             }, 
             {
               "name": "Raphael Montouchet", 
-              "id": "100001368081821"
+              "id": "100001368081821",
+        	  "confiance": "1"
             }, 
             {
               "name": "Henri Bensalouf", 
-              "id": "100002122118584"
+              "id": "100002122118584",
+        	  "confiance": "1"
             }, 
             {
               "name": "Eispri Stic", 
-              "id": "100002381065572"
+              "id": "100002381065572",
+        	  "confiance": "1"
             }, 
             {
-              "name": "François Colin", 
-              "id": "100002397990292"
+              "name": "Franï¿½ois Colin", 
+              "id": "100002397990292",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -919,15 +1099,18 @@
           "data": [
             {
               "name": "Chach Avanzi", 
-              "id": "1147239577"
+              "id": "1147239577",
+        	  "confiance": "3"
             }, 
             {
               "name": "Boris Forestier", 
-              "id": "100000528423411"
+              "id": "100000528423411",
+        	  "confiance": "3"
             }, 
             {
-              "name": "François Colin", 
-              "id": "100002397990292"
+              "name": "Franï¿½ois Colin", 
+              "id": "100002397990292",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -940,60 +1123,74 @@
         "mutualfriends": {
           "data": [
             {
-              "name": "François Profizi", 
-              "id": "741389748"
+              "name": "Franï¿½ois Profizi", 
+              "id": "741389748",
+        	  "confiance": "1"
             }, 
             {
               "name": "Sebastien Tolron", 
-              "id": "1149983596"
+              "id": "1149983596",
+        	  "confiance": "1"
             }, 
             {
               "name": "Valentin Buisson", 
-              "id": "1188746465"
+              "id": "1188746465",
+        	  "confiance": "2"
             }, 
             {
               "name": "Zio Samuele", 
-              "id": "1229878777"
+              "id": "1229878777",
+        	  "confiance": "3"
             }, 
             {
               "name": "Jojo Felicity", 
-              "id": "1240560738"
+              "id": "1240560738",
+        	  "confiance": "1"
             }, 
             {
               "name": "Hugo Tanou Kiaven'outo", 
-              "id": "1270877364"
+              "id": "1270877364",
+        	  "confiance": "1"
             }, 
             {
               "name": "Jeremy Marois", 
-              "id": "1329818667"
+              "id": "1329818667",
+        	  "confiance": "1"
             }, 
             {
               "name": "Jami Noux", 
-              "id": "1409420831"
+              "id": "1409420831",
+        	  "confiance": "1"
             }, 
             {
               "name": "Yohann Berthon", 
-              "id": "1449220723"
+              "id": "1449220723",
+        	  "confiance": "1"
             }, 
             {
               "name": "Anthony Rey", 
-              "id": "1516030355"
+              "id": "1516030355",
+        	  "confiance": "3"
             }, 
             {
-              "name": "Rémi Geny-Dumont", 
-              "id": "1550315312"
+              "name": "Rï¿½mi Geny-Dumont", 
+              "id": "1550315312",
+        	  "confiance": "1"
             }, 
             {
               "name": "Raphael Montouchet", 
-              "id": "100001368081821"
+              "id": "100001368081821",
+        	  "confiance": "1"
             }, 
             {
               "name": "Giuseppe Cindolo", 
-              "id": "100001640748402"
+              "id": "100001640748402",
+        	  "confiance": "1"
             }, 
             {
               "name": "Alexandre Capellaro", 
-              "id": "100001746677724"
+              "id": "100001746677724",
+        	  "confiance": "3"
             }
           ], 
           "paging": {
@@ -1007,43 +1204,53 @@
           "data": [
             {
               "name": "Jessica Gauthier", 
-              "id": "1202407944"
+              "id": "1202407944",
+        	  "confiance": "1"
             }, 
             {
               "name": "Romain Cartier-Lange", 
-              "id": "1353126619"
+              "id": "1353126619",
+        	  "confiance": "1"
             }, 
             {
               "name": "Marjorie Girard", 
-              "id": "1519964393"
+              "id": "1519964393",
+        	  "confiance": "1"
             }, 
             {
               "name": "Aurelien Chaix", 
-              "id": "100000151767666"
+              "id": "100000151767666",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Valène Salavin", 
-              "id": "100000224883542"
+              "name": "Valï¿½ne Salavin", 
+              "id": "100000224883542",
+        	  "confiance": "1"
             }, 
             {
               "name": "Kryss Salavin", 
-              "id": "100000244146583"
+              "id": "100000244146583",
+        	  "confiance": "1"
             }, 
             {
-              "name": "François Colin", 
-              "id": "100002397990292"
+              "name": "Franï¿½ois Colin", 
+              "id": "100002397990292",
+        	  "confiance": "2"
             }, 
             {
               "name": "Miriam Labat", 
-              "id": "100003469768465"
+              "id": "100003469768465",
+        	  "confiance": "3"
             }, 
             {
-              "name": "Cécile Gavot", 
-              "id": "100003594767197"
+              "name": "Cï¿½cile Gavot", 
+              "id": "100003594767197",
+        	  "confiance": "3"
             }, 
             {
               "name": "Mat Moulin", 
-              "id": "100006295987646"
+              "id": "100006295987646",
+        	  "confiance": "2"
             }
           ], 
           "paging": {
@@ -1057,39 +1264,48 @@
           "data": [
             {
               "name": "Pasquier Kevin", 
-              "id": "634129604"
+              "id": "634129604",
+        	  "confiance": "3"
             }, 
             {
               "name": "Dreyer Pauline", 
-              "id": "695903679"
+              "id": "695903679",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Rémi Trouillon", 
-              "id": "1140174162"
+              "name": "Rï¿½mi Trouillon", 
+              "id": "1140174162",
+        	  "confiance": "2"
             }, 
             {
               "name": "Chach Avanzi", 
-              "id": "1147239577"
+              "id": "1147239577",
+        	  "confiance": "1"
             }, 
             {
               "name": "Nicolas Paraz", 
-              "id": "1172680358"
+              "id": "1172680358",
+        	  "confiance": "1"
             }, 
             {
               "name": "Dom Antonacci", 
-              "id": "1199884223"
+              "id": "1199884223",
+        	  "confiance": "1"
             }, 
             {
               "name": "Alban Derrier", 
-              "id": "1241917975"
+              "id": "1241917975",
+        	  "confiance": "3"
             }, 
             {
               "name": "Joris Sammassimo", 
-              "id": "1361972097"
+              "id": "1361972097",
+        	  "confiance": "2"
             }, 
             {
               "name": "Joss Derrier", 
-              "id": "1529178882"
+              "id": "1529178882",
+        	  "confiance": "2"
             }
           ], 
           "paging": {
@@ -1103,67 +1319,83 @@
           "data": [
             {
               "name": "Pasquier Kevin", 
-              "id": "634129604"
+              "id": "634129604",
+        	  "confiance": "1"
             }, 
             {
               "name": "Dreyer Pauline", 
-              "id": "695903679"
+              "id": "695903679",
+        	  "confiance": "2"
             }, 
             {
               "name": "Fabien Ardiri", 
-              "id": "1066810712"
+              "id": "1066810712",
+        	  "confiance": "1"
             }, 
             {
               "name": "Nicolas Paraz", 
-              "id": "1172680358"
+              "id": "1172680358",
+        	  "confiance": "2"
             }, 
             {
               "name": "Dom Antonacci", 
-              "id": "1199884223"
+              "id": "1199884223",
+        	  "confiance": "1"
             }, 
             {
               "name": "Alban Derrier", 
-              "id": "1241917975"
+              "id": "1241917975",
+        	  "confiance": "1"
             }, 
             {
               "name": "Romain Cartier-Lange", 
-              "id": "1353126619"
+              "id": "1353126619",
+        	  "confiance": "2"
             }, 
             {
               "name": "Joris Sammassimo", 
-              "id": "1361972097"
+              "id": "1361972097",
+        	  "confiance": "2"
             }, 
             {
               "name": "Mickael Magnin", 
-              "id": "1492743445"
+              "id": "1492743445",
+        	  "confiance": "3"
             }, 
             {
               "name": "Anthony Rey", 
-              "id": "1516030355"
+              "id": "1516030355",
+        	  "confiance": "2"
             }, 
             {
               "name": "Joss Derrier", 
-              "id": "1529178882"
+              "id": "1529178882",
+        	  "confiance": "1"
             }, 
             {
               "name": "Anthony Muscara", 
-              "id": "1548909381"
+              "id": "1548909381",
+        	  "confiance": "2"
             }, 
             {
-              "name": "Cécile Giraud", 
-              "id": "1568672808"
+              "name": "Cï¿½cile Giraud", 
+              "id": "1568672808",
+        	  "confiance": "1"
             }, 
             {
               "name": "Saint-Jean De-Maurienne", 
-              "id": "1707015888"
+              "id": "1707015888",
+        	  "confiance": "1"
             }, 
             {
               "name": "Dat' Motos", 
-              "id": "100001187713756"
+              "id": "100001187713756",
+        	  "confiance": "3"
             }, 
             {
-              "name": "François Colin", 
-              "id": "100002397990292"
+              "name": "Franï¿½ois Colin", 
+              "id": "100002397990292",
+        	  "confiance": "2"
             }
           ], 
           "paging": {
@@ -1177,39 +1409,48 @@
           "data": [
             {
               "name": "Bastien Morier", 
-              "id": "558826858"
+              "id": "558826858",
+        	  "confiance": "1"
             }, 
             {
               "name": "Flo Cavallo", 
-              "id": "565914717"
+              "id": "565914717",
+        	  "confiance": "1"
             }, 
             {
               "name": "Thomas Boyer", 
-              "id": "697614500"
+              "id": "697614500",
+        	  "confiance": "2"
             }, 
             {
               "name": "Alexandre Pugeat", 
-              "id": "772474610"
+              "id": "772474610",
+        	  "confiance": "3"
             }, 
             {
               "name": "Jonathan Djo", 
-              "id": "1147213310"
+              "id": "1147213310",
+        	  "confiance": "1"
             }, 
             {
               "name": "Cyrille Dumortier", 
-              "id": "1149013101"
+              "id": "1149013101",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Alizée Jacquot", 
-              "id": "1278501526"
+              "name": "Alizï¿½e Jacquot", 
+              "id": "1278501526",
+        	  "confiance": "2"
             }, 
             {
               "name": "Sylvain Ouilleres", 
-              "id": "100000195521669"
+              "id": "100000195521669",
+        	  "confiance": "1"
             }, 
             {
               "name": "Matthieu Perrin", 
-              "id": "100000646034740"
+              "id": "100000646034740",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -1223,19 +1464,23 @@
           "data": [
             {
               "name": "Bastien Morier", 
-              "id": "558826858"
+              "id": "558826858",
+        	  "confiance": "1"
             }, 
             {
               "name": "Thomas Boyer", 
-              "id": "697614500"
+              "id": "697614500",
+        	  "confiance": "2"
             }, 
             {
               "name": "Alexandre Vasseur", 
-              "id": "1143474855"
+              "id": "1143474855",
+        	  "confiance": "3"
             }, 
             {
               "name": "Matthieu Perrin", 
-              "id": "100000646034740"
+              "id": "100000646034740",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -1249,43 +1494,53 @@
           "data": [
             {
               "name": "Maud Forestier", 
-              "id": "1032232845"
+              "id": "1032232845",
+        	  "confiance": "3"
             }, 
             {
               "name": "Fabien Ardiri", 
-              "id": "1066810712"
+              "id": "1066810712",
+        	  "confiance": "1"
             }, 
             {
               "name": "Nicolas Paraz", 
-              "id": "1172680358"
+              "id": "1172680358",
+        	  "confiance": "1"
             }, 
             {
               "name": "Dom Antonacci", 
-              "id": "1199884223"
+              "id": "1199884223",
+        	  "confiance": "1"
             }, 
             {
               "name": "Alban Derrier", 
-              "id": "1241917975"
+              "id": "1241917975",
+        	  "confiance": "1"
             }, 
             {
               "name": "Camille Olive", 
-              "id": "1272373182"
+              "id": "1272373182",
+        	  "confiance": "2"
             }, 
             {
               "name": "Joss Derrier", 
-              "id": "1529178882"
+              "id": "1529178882",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Cécile Giraud", 
-              "id": "1568672808"
+              "name": "Cï¿½cile Giraud", 
+              "id": "1568672808",
+        	  "confiance": "2"
             }, 
             {
               "name": "Therry Buttard", 
-              "id": "1601614965"
+              "id": "1601614965",
+        	  "confiance": "1"
             }, 
             {
               "name": "Boris Forestier", 
-              "id": "100000528423411"
+              "id": "100000528423411",
+        	  "confiance": "3"
             }
           ], 
           "paging": {
@@ -1299,31 +1554,38 @@
           "data": [
             {
               "name": "Bastien Morier", 
-              "id": "558826858"
+              "id": "558826858",
+        	  "confiance": "1"
             }, 
             {
               "name": "Flo Cavallo", 
-              "id": "565914717"
+              "id": "565914717",
+        	  "confiance": "1"
             }, 
             {
               "name": "Franck Jacob", 
-              "id": "580626585"
+              "id": "580626585",
+        	  "confiance": "3"
             }, 
             {
               "name": "Thomas Boyer", 
-              "id": "697614500"
+              "id": "697614500",
+        	  "confiance": "2"
             }, 
             {
               "name": "Alexandre Vasseur", 
-              "id": "1143474855"
+              "id": "1143474855",
+        	  "confiance": "2"
             }, 
             {
-              "name": "Alizée Jacquot", 
-              "id": "1278501526"
+              "name": "Alizï¿½e Jacquot", 
+              "id": "1278501526",
+        	  "confiance": "3"
             }, 
             {
               "name": "Matthieu Perrin", 
-              "id": "100000646034740"
+              "id": "100000646034740",
+        	  "confiance": "2"
             }
           ], 
           "paging": {
@@ -1336,68 +1598,84 @@
         "mutualfriends": {
           "data": [
             {
-              "name": "François Profizi", 
-              "id": "741389748"
+              "name": "Franï¿½ois Profizi", 
+              "id": "741389748",
+        	  "confiance": "3"
             }, 
             {
               "name": "Jean-Charles Marty", 
-              "id": "1027283956"
+              "id": "1027283956",
+        	  "confiance": "1"
             }, 
             {
               "name": "Antho Avy", 
-              "id": "1032562311"
+              "id": "1032562311",
+        	  "confiance": "1"
             }, 
             {
               "name": "Valentin Buisson", 
-              "id": "1188746465"
+              "id": "1188746465",
+        	  "confiance": "1"
             }, 
             {
               "name": "Zio Samuele", 
-              "id": "1229878777"
+              "id": "1229878777",
+        	  "confiance": "2"
             }, 
             {
               "name": "Jojo Felicity", 
-              "id": "1240560738"
+              "id": "1240560738",
+        	  "confiance": "3"
             }, 
             {
               "name": "Hugo Tanou Kiaven'outo", 
-              "id": "1270877364"
+              "id": "1270877364",
+        	  "confiance": "2"
             }, 
             {
               "name": "Jeremy Marois", 
-              "id": "1329818667"
+              "id": "1329818667",
+        	  "confiance": "1"
             }, 
             {
               "name": "Jami Noux", 
-              "id": "1409420831"
+              "id": "1409420831",
+        	  "confiance": "1"
             }, 
             {
               "name": "Joffrey Moumou", 
-              "id": "1437115924"
+              "id": "1437115924",
+        	  "confiance": "1"
             }, 
             {
               "name": "Aymeric Assier", 
-              "id": "1442522522"
+              "id": "1442522522",
+        	  "confiance": "1"
             }, 
             {
               "name": "Yohann Berthon", 
-              "id": "1449220723"
+              "id": "1449220723",
+        	  "confiance": "1"
             }, 
             {
               "name": "Anthony Rey", 
-              "id": "1516030355"
+              "id": "1516030355",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Rémi Geny-Dumont", 
-              "id": "1550315312"
+              "name": "Rï¿½mi Geny-Dumont", 
+              "id": "1550315312",
+        	  "confiance": "3"
             }, 
             {
               "name": "Claire Rollinger", 
-              "id": "1580750706"
+              "id": "1580750706",
+        	  "confiance": "2"
             }, 
             {
               "name": "Giuseppe Cindolo", 
-              "id": "100001640748402"
+              "id": "100001640748402",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -1410,12 +1688,14 @@
         "mutualfriends": {
           "data": [
             {
-              "name": "Alizée Jacquot", 
-              "id": "1278501526"
+              "name": "Alizï¿½e Jacquot", 
+              "id": "1278501526",
+        	  "confiance": "2"
             }, 
             {
               "name": "Marjorie Girard", 
-              "id": "1519964393"
+              "id": "1519964393",
+        	  "confiance": "2"
             }
           ], 
           "paging": {
@@ -1429,63 +1709,78 @@
           "data": [
             {
               "name": "Pasquier Kevin", 
-              "id": "634129604"
+              "id": "634129604",
+        	  "confiance": "1"
             }, 
             {
               "name": "Karine Girard", 
-              "id": "725217994"
+              "id": "725217994",
+        	  "confiance": "3"
             }, 
             {
-              "name": "Cédric Bosviel", 
-              "id": "1011271044"
+              "name": "Cï¿½dric Bosviel", 
+              "id": "1011271044",
+        	  "confiance": "2"
             }, 
             {
               "name": "Fabien Ardiri", 
-              "id": "1066810712"
+              "id": "1066810712",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Rémi Trouillon", 
-              "id": "1140174162"
+              "name": "Rï¿½mi Trouillon", 
+              "id": "1140174162",
+        	  "confiance": "1"
             }, 
             {
               "name": "Chach Avanzi", 
-              "id": "1147239577"
+              "id": "1147239577",
+        	  "confiance": "3"
             }, 
             {
               "name": "Alban Derrier", 
-              "id": "1241917975"
+              "id": "1241917975",
+        	  "confiance": "2"
             }, 
             {
               "name": "Romain Cartier-Lange", 
-              "id": "1353126619"
+              "id": "1353126619",
+        	  "confiance": "1"
             }, 
             {
               "name": "Joris Sammassimo", 
-              "id": "1361972097"
+              "id": "1361972097",
+        	  "confiance": "2"
             }, 
             {
               "name": "Mickael Magnin", 
-              "id": "1492743445"
+              "id": "1492743445",
+        	  "confiance": "1"
             }, 
             {
               "name": "Joss Derrier", 
-              "id": "1529178882"
+              "id": "1529178882",
+        	  "confiance": "1"
             }, 
             {
               "name": "Anthony Muscara", 
-              "id": "1548909381"
+              "id": "1548909381",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Cécile Giraud", 
-              "id": "1568672808"
+              "name": "Cï¿½cile Giraud", 
+              "id": "1568672808",
+        	  "confiance": "2"
             }, 
             {
               "name": "Saint-Jean De-Maurienne", 
-              "id": "1707015888"
+              "id": "1707015888",
+        	  "confiance": "3"
             }, 
             {
               "name": "Dat' Motos", 
-              "id": "100001187713756"
+              "id": "100001187713756",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -1499,55 +1794,68 @@
           "data": [
             {
               "name": "Jean-Charles Marty", 
-              "id": "1027283956"
+              "id": "1027283956",
+        	  "confiance": "1"
             }, 
             {
               "name": "Antho Avy", 
-              "id": "1032562311"
+              "id": "1032562311",
+        	  "confiance": "2"
             }, 
             {
               "name": "Sebastien Tolron", 
-              "id": "1149983596"
+              "id": "1149983596",
+        	  "confiance": "3"
             }, 
             {
               "name": "Jojo Felicity", 
-              "id": "1240560738"
+              "id": "1240560738",
+        	  "confiance": "3"
             }, 
             {
               "name": "Hugo Tanou Kiaven'outo", 
-              "id": "1270877364"
+              "id": "1270877364",
+        	  "confiance": "3"
             }, 
             {
               "name": "Jeremy Marois", 
-              "id": "1329818667"
+              "id": "1329818667",
+        	  "confiance": "2"
             }, 
             {
               "name": "Yohann Berthon", 
-              "id": "1449220723"
+              "id": "1449220723",
+        	  "confiance": "1"
             }, 
             {
               "name": "Anthony Rey", 
-              "id": "1516030355"
+              "id": "1516030355",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Rémi Geny-Dumont", 
-              "id": "1550315312"
+              "name": "Rï¿½mi Geny-Dumont", 
+              "id": "1550315312",
+        	  "confiance": "3"
             }, 
             {
               "name": "Raphael Montouchet", 
-              "id": "100001368081821"
+              "id": "100001368081821",
+        	  "confiance": "1"
             }, 
             {
               "name": "Giuseppe Cindolo", 
-              "id": "100001640748402"
+              "id": "100001640748402",
+        	  "confiance": "2"
             }, 
             {
               "name": "Alexandre Capellaro", 
-              "id": "100001746677724"
+              "id": "100001746677724",
+        	  "confiance": "1"
             }, 
             {
               "name": "Eispri Stic", 
-              "id": "100002381065572"
+              "id": "100002381065572",
+        	  "confiance": "3"
             }
           ], 
           "paging": {
@@ -1560,32 +1868,39 @@
         "mutualfriends": {
           "data": [
             {
-              "name": "Cédric Bosviel", 
-              "id": "1011271044"
+              "name": "Cï¿½dric Bosviel", 
+              "id": "1011271044",
+        	  "confiance": "1"
             }, 
             {
               "name": "Rodolphe Lepigre", 
-              "id": "1486652152"
+              "id": "1486652152",
+        	  "confiance": "3"
             }, 
             {
               "name": "Mickael Magnin", 
-              "id": "1492743445"
+              "id": "1492743445",
+        	  "confiance": "3"
             }, 
             {
               "name": "Marjorie Girard", 
-              "id": "1519964393"
+              "id": "1519964393",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Gisèle Guiraud Tourillon", 
-              "id": "100000306661270"
+              "name": "Gisï¿½le Guiraud Tourillon", 
+              "id": "100000306661270",
+        	  "confiance": "2"
             }, 
             {
               "name": "Boris Forestier", 
-              "id": "100000528423411"
+              "id": "100000528423411",
+        	  "confiance": "1"
             }, 
             {
               "name": "Laura Tourillon", 
-              "id": "100000741533418"
+              "id": "100000741533418",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -1599,35 +1914,43 @@
           "data": [
             {
               "name": "Baptiste Court", 
-              "id": "1013648806"
+              "id": "1013648806",
+        	  "confiance": "1"
             }, 
             {
               "name": "Fabien Ardiri", 
-              "id": "1066810712"
+              "id": "1066810712",
+        	  "confiance": "2"
             }, 
             {
-              "name": "Rémi Trouillon", 
-              "id": "1140174162"
+              "name": "Rï¿½mi Trouillon", 
+              "id": "1140174162",
+        	  "confiance": "2"
             }, 
             {
               "name": "Chach Avanzi", 
-              "id": "1147239577"
+              "id": "1147239577",
+        	  "confiance": "3"
             }, 
             {
               "name": "Romain Cartier-Lange", 
-              "id": "1353126619"
+              "id": "1353126619",
+        	  "confiance": "1"
             }, 
             {
               "name": "Ludovic Donteville", 
-              "id": "1645430547"
+              "id": "1645430547",
+        	  "confiance": "1"
             }, 
             {
               "name": "Saint-Jean De-Maurienne", 
-              "id": "1707015888"
+              "id": "1707015888",
+        	  "confiance": "3"
             }, 
             {
               "name": "Dat' Motos", 
-              "id": "100001187713756"
+              "id": "100001187713756",
+        	  "confiance": "2"
             }
           ], 
           "paging": {
@@ -1641,15 +1964,18 @@
           "data": [
             {
               "name": "Romane Metral", 
-              "id": "1035069400"
+              "id": "1035069400",
+        	  "confiance": "1"
             }, 
             {
-              "name": "François Colin", 
-              "id": "100002397990292"
+              "name": "Franï¿½ois Colin", 
+              "id": "100002397990292",
+        	  "confiance": "2"
             }, 
             {
-              "name": "Cécile Gavot", 
-              "id": "100003594767197"
+              "name": "Cï¿½cile Gavot", 
+              "id": "100003594767197",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -1663,35 +1989,43 @@
           "data": [
             {
               "name": "Antho Avy", 
-              "id": "1032562311"
+              "id": "1032562311",
+        	  "confiance": "2"
             }, 
             {
               "name": "Sebastien Tolron", 
-              "id": "1149983596"
+              "id": "1149983596",
+        	  "confiance": "1"
             }, 
             {
               "name": "Hugo Tanou Kiaven'outo", 
-              "id": "1270877364"
+              "id": "1270877364",
+        	  "confiance": "2"
             }, 
             {
               "name": "Jeremy Marois", 
-              "id": "1329818667"
+              "id": "1329818667",
+        	  "confiance": "3"
             }, 
             {
               "name": "Jami Noux", 
-              "id": "1409420831"
+              "id": "1409420831",
+        	  "confiance": "1"
             }, 
             {
               "name": "Yohann Berthon", 
-              "id": "1449220723"
+              "id": "1449220723",
+        	  "confiance": "1"
             }, 
             {
               "name": "Anthony Rey", 
-              "id": "1516030355"
+              "id": "1516030355",
+        	  "confiance": "2"
             }, 
             {
               "name": "Giuseppe Cindolo", 
-              "id": "100001640748402"
+              "id": "100001640748402",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -1708,43 +2042,53 @@
           "data": [
             {
               "name": "Antho Avy", 
-              "id": "1032562311"
+              "id": "1032562311",
+        	  "confiance": "2"
             }, 
             {
               "name": "Sebastien Tolron", 
-              "id": "1149983596"
+              "id": "1149983596",
+        	  "confiance": "1"
             }, 
             {
               "name": "Valentin Buisson", 
-              "id": "1188746465"
+              "id": "1188746465",
+        	  "confiance": "3"
             }, 
             {
               "name": "Jeremy Marois", 
-              "id": "1329818667"
+              "id": "1329818667",
+        	  "confiance": "1"
             }, 
             {
               "name": "Yohann Berthon", 
-              "id": "1449220723"
+              "id": "1449220723",
+        	  "confiance": "2"
             }, 
             {
               "name": "Anthony Rey", 
-              "id": "1516030355"
+              "id": "1516030355",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Rémi Geny-Dumont", 
-              "id": "1550315312"
+              "name": "Rï¿½mi Geny-Dumont", 
+              "id": "1550315312",
+        	  "confiance": "2"
             }, 
             {
-              "name": "Aurél Grézille", 
-              "id": "1626845267"
+              "name": "Aurï¿½l Grï¿½zille", 
+              "id": "1626845267",
+        	  "confiance": "1"
             }, 
             {
               "name": "Raphael Montouchet", 
-              "id": "100001368081821"
+              "id": "100001368081821",
+        	  "confiance": "1"
             }, 
             {
               "name": "Giuseppe Cindolo", 
-              "id": "100001640748402"
+              "id": "100001640748402",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -1758,67 +2102,83 @@
           "data": [
             {
               "name": "Pasquier Kevin", 
-              "id": "634129604"
+              "id": "634129604",
+        	  "confiance": "2"
             }, 
             {
               "name": "Dreyer Pauline", 
-              "id": "695903679"
+              "id": "695903679",
+        	  "confiance": "1"
             }, 
             {
               "name": "Fabien Ardiri", 
-              "id": "1066810712"
+              "id": "1066810712",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Rémi Trouillon", 
-              "id": "1140174162"
+              "name": "Rï¿½mi Trouillon", 
+              "id": "1140174162",
+        	  "confiance": "1"
             }, 
             {
               "name": "Chach Avanzi", 
-              "id": "1147239577"
+              "id": "1147239577",
+        	  "confiance": "1"
             }, 
             {
               "name": "Nicolas Paraz", 
-              "id": "1172680358"
+              "id": "1172680358",
+        	  "confiance": "1"
             }, 
             {
               "name": "Camille Olive", 
-              "id": "1272373182"
+              "id": "1272373182",
+        	  "confiance": "2"
             }, 
             {
               "name": "Romain Cartier-Lange", 
-              "id": "1353126619"
+              "id": "1353126619",
+        	  "confiance": "2"
             }, 
             {
               "name": "Joris Sammassimo", 
-              "id": "1361972097"
+              "id": "1361972097",
+        	  "confiance": "3"
             }, 
             {
               "name": "Mickael Magnin", 
-              "id": "1492743445"
+              "id": "1492743445",
+        	  "confiance": "1"
             }, 
             {
               "name": "Joss Derrier", 
-              "id": "1529178882"
+              "id": "1529178882",
+        	  "confiance": "1"
             }, 
             {
               "name": "Anthony Muscara", 
-              "id": "1548909381"
+              "id": "1548909381",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Cécile Giraud", 
-              "id": "1568672808"
+              "name": "Cï¿½cile Giraud", 
+              "id": "1568672808",
+        	  "confiance": "2"
             }, 
             {
               "name": "Therry Buttard", 
-              "id": "1601614965"
+              "id": "1601614965",
+        	  "confiance": "3"
             }, 
             {
               "name": "Bertrand Rollet", 
-              "id": "1784303529"
+              "id": "1784303529",
+        	  "confiance": "1"
             }, 
             {
               "name": "Dat' Motos", 
-              "id": "100001187713756"
+              "id": "100001187713756",
+        	  "confiance": "3"
             }
           ], 
           "paging": {
@@ -1831,48 +2191,59 @@
         "mutualfriends": {
           "data": [
             {
-              "name": "François Profizi", 
-              "id": "741389748"
+              "name": "Franï¿½ois Profizi", 
+              "id": "741389748",
+        	  "confiance": "1"
             }, 
             {
               "name": "Antho Avy", 
-              "id": "1032562311"
+              "id": "1032562311",
+        	  "confiance": "1"
             }, 
             {
               "name": "Sebastien Tolron", 
-              "id": "1149983596"
+              "id": "1149983596",
+        	  "confiance": "3"
             }, 
             {
               "name": "Valentin Buisson", 
-              "id": "1188746465"
+              "id": "1188746465",
+        	  "confiance": "2"
             }, 
             {
               "name": "Zio Samuele", 
-              "id": "1229878777"
+              "id": "1229878777",
+        	  "confiance": "2"
             }, 
             {
               "name": "Jeremy Marois", 
-              "id": "1329818667"
+              "id": "1329818667",
+        	  "confiance": "1"
             }, 
             {
               "name": "Yohann Berthon", 
-              "id": "1449220723"
+              "id": "1449220723",
+        	  "confiance": "1"
             }, 
             {
               "name": "Anthony Rey", 
-              "id": "1516030355"
+              "id": "1516030355",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Rémi Geny-Dumont", 
-              "id": "1550315312"
+              "name": "Rï¿½mi Geny-Dumont", 
+              "id": "1550315312",
+        	  "confiance": "2"
             }, 
             {
               "name": "Raphael Montouchet", 
-              "id": "100001368081821"
+              "id": "100001368081821",
+        	  "confiance": "2"
             }, 
             {
               "name": "Giuseppe Cindolo", 
-              "id": "100001640748402"
+              "id": "100001640748402",
+        	  "confiance": "3"
             }
           ], 
           "paging": {
@@ -1886,23 +2257,28 @@
           "data": [
             {
               "name": "Chach Avanzi", 
-              "id": "1147239577"
+              "id": "1147239577",
+        	  "confiance": "1"
             }, 
             {
               "name": "Alban Derrier", 
-              "id": "1241917975"
+              "id": "1241917975",
+        	  "confiance": "1"
             }, 
             {
               "name": "Joris Sammassimo", 
-              "id": "1361972097"
+              "id": "1361972097",
+        	  "confiance": "2"
             }, 
             {
               "name": "Joss Derrier", 
-              "id": "1529178882"
+              "id": "1529178882",
+        	  "confiance": "1"
             }, 
             {
               "name": "Saint-Jean De-Maurienne", 
-              "id": "1707015888"
+              "id": "1707015888",
+        	  "confiance": "3"
             }
           ], 
           "paging": {
@@ -1916,55 +2292,68 @@
           "data": [
             {
               "name": "Jalil Djabelkhir", 
-              "id": "526039085"
+              "id": "526039085",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Noémie Lemaire", 
-              "id": "1001384540"
+              "name": "Noï¿½mie Lemaire", 
+              "id": "1001384540",
+        	  "confiance": "1"
             }, 
             {
               "name": "Adrien Lombard", 
-              "id": "1396212502"
+              "id": "1396212502",
+        	  "confiance": "3"
             }, 
             {
               "name": "Joffrey Moumou", 
-              "id": "1437115924"
+              "id": "1437115924",
+        	  "confiance": "2"
             }, 
             {
               "name": "Aymeric Assier", 
-              "id": "1442522522"
+              "id": "1442522522",
+        	  "confiance": "2"
             }, 
             {
               "name": "Anthony Rey", 
-              "id": "1516030355"
+              "id": "1516030355",
+        	  "confiance": "3"
             }, 
             {
               "name": "Claire Rollinger", 
-              "id": "1580750706"
+              "id": "1580750706",
+        	  "confiance": "3"
             }, 
             {
               "name": "Julien Plateau", 
-              "id": "1600524351"
+              "id": "1600524351",
+        	  "confiance": "1"
             }, 
             {
               "name": "Rudy Regazzoni", 
-              "id": "1622406859"
+              "id": "1622406859",
+        	  "confiance": "1"
             }, 
             {
               "name": "Lionel Richter", 
-              "id": "100000486106660"
+              "id": "100000486106660",
+        	  "confiance": "2"
             }, 
             {
               "name": "Raphael Montouchet", 
-              "id": "100001368081821"
+              "id": "100001368081821",
+        	  "confiance": "1"
             }, 
             {
               "name": "Henri Bensalouf", 
-              "id": "100002122118584"
+              "id": "100002122118584",
+        	  "confiance": "1"
             }, 
             {
-              "name": "François Colin", 
-              "id": "100002397990292"
+              "name": "Franï¿½ois Colin", 
+              "id": "100002397990292",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -1978,35 +2367,43 @@
           "data": [
             {
               "name": "Franck Jacob", 
-              "id": "580626585"
+              "id": "580626585",
+        	  "confiance": "2"
             }, 
             {
               "name": "Thomas Boyer", 
-              "id": "697614500"
+              "id": "697614500",
+        	  "confiance": "1"
             }, 
             {
               "name": "Alexandre Pugeat", 
-              "id": "772474610"
+              "id": "772474610",
+        	  "confiance": "2"
             }, 
             {
               "name": "Alexandre Vasseur", 
-              "id": "1143474855"
+              "id": "1143474855",
+        	  "confiance": "1"
             }, 
             {
               "name": "Cyrille Dumortier", 
-              "id": "1149013101"
+              "id": "1149013101",
+        	  "confiance": "2"
             }, 
             {
               "name": "David Thomas", 
-              "id": "1162124692"
+              "id": "1162124692",
+        	  "confiance": "3"
             }, 
             {
               "name": "Sylvain Ouilleres", 
-              "id": "100000195521669"
+              "id": "100000195521669",
+        	  "confiance": "1"
             }, 
             {
               "name": "Matthieu Perrin", 
-              "id": "100000646034740"
+              "id": "100000646034740",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -2019,64 +2416,79 @@
         "mutualfriends": {
           "data": [
             {
-              "name": "François Profizi", 
-              "id": "741389748"
+              "name": "Franï¿½ois Profizi", 
+              "id": "741389748",
+        	  "confiance": "2"
             }, 
             {
               "name": "Antho Avy", 
-              "id": "1032562311"
+              "id": "1032562311",
+        	  "confiance": "3"
             }, 
             {
               "name": "Sebastien Tolron", 
-              "id": "1149983596"
+              "id": "1149983596",
+        	  "confiance": "1"
             }, 
             {
               "name": "Valentin Buisson", 
-              "id": "1188746465"
+              "id": "1188746465",
+        	  "confiance": "1"
             }, 
             {
               "name": "Zio Samuele", 
-              "id": "1229878777"
+              "id": "1229878777",
+        	  "confiance": "1"
             }, 
             {
               "name": "Jojo Felicity", 
-              "id": "1240560738"
+              "id": "1240560738",
+        	  "confiance": "2"
             }, 
             {
               "name": "Hugo Tanou Kiaven'outo", 
-              "id": "1270877364"
+              "id": "1270877364",
+        	  "confiance": "1"
             }, 
             {
               "name": "Jami Noux", 
-              "id": "1409420831"
+              "id": "1409420831",
+        	  "confiance": "3"
             }, 
             {
               "name": "Yohann Berthon", 
-              "id": "1449220723"
+              "id": "1449220723",
+        	  "confiance": "2"
             }, 
             {
               "name": "Anthony Rey", 
-              "id": "1516030355"
+              "id": "1516030355",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Rémi Geny-Dumont", 
-              "id": "1550315312"
+              "name": "Rï¿½mi Geny-Dumont", 
+              "id": "1550315312",
+        	  "confiance": "1"
             }, 
             {
               "name": "Raphael Montouchet", 
-              "id": "100001368081821"
+              "id": "100001368081821",
+        	  "confiance": "1"
             }, 
             {
               "name": "Giuseppe Cindolo", 
-              "id": "100001640748402"
+              "id": "100001640748402",
+        	  "confiance": "2"
             }, 
             {
               "name": "Alexandre Capellaro", 
-              "id": "100001746677724"
+              "id": "100001746677724",
+        	  "confiance": "2"
             }, 
             {
               "name": "Henri Bensalouf", 
-              "id": "100002122118584"
+              "id": "100002122118584",
+        	  "confiance": "3"
             }
           ], 
           "paging": {
@@ -2090,43 +2502,53 @@
           "data": [
             {
               "name": "Baptiste Court", 
-              "id": "1013648806"
+              "id": "1013648806",
+        	  "confiance": "2"
             }, 
             {
               "name": "Romane Metral", 
-              "id": "1035069400"
+              "id": "1035069400",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Rémi Trouillon", 
-              "id": "1140174162"
+              "name": "Rï¿½mi Trouillon", 
+              "id": "1140174162",
+        	  "confiance": "1"
             }, 
             {
               "name": "Nicolas Paraz", 
-              "id": "1172680358"
+              "id": "1172680358",
+        	  "confiance": "3"
             }, 
             {
               "name": "Dom Antonacci", 
-              "id": "1199884223"
+              "id": "1199884223",
+        	  "confiance": "1"
             }, 
             {
               "name": "Alban Derrier", 
-              "id": "1241917975"
+              "id": "1241917975",
+        	  "confiance": "3"
             }, 
             {
               "name": "Saint-Jean De-Maurienne", 
-              "id": "1707015888"
+              "id": "1707015888",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Valène Salavin", 
-              "id": "100000224883542"
+              "name": "Valï¿½ne Salavin", 
+              "id": "100000224883542",
+        	  "confiance": "1"
             }, 
             {
               "name": "Kryss Salavin", 
-              "id": "100000244146583"
+              "id": "100000244146583",
+        	  "confiance": "3"
             }, 
             {
               "name": "Dat' Motos", 
-              "id": "100001187713756"
+              "id": "100001187713756",
+        	  "confiance": "2"
             }
           ], 
           "paging": {
@@ -2140,47 +2562,58 @@
           "data": [
             {
               "name": "Karine Girard", 
-              "id": "725217994"
+              "id": "725217994",
+        	  "confiance": "1"
             }, 
             {
               "name": "Baptiste Court", 
-              "id": "1013648806"
+              "id": "1013648806",
+        	  "confiance": "2"
             }, 
             {
               "name": "Fabien Ardiri", 
-              "id": "1066810712"
+              "id": "1066810712",
+        	  "confiance": "3"
             }, 
             {
-              "name": "Rémi Trouillon", 
-              "id": "1140174162"
+              "name": "Rï¿½mi Trouillon", 
+              "id": "1140174162",
+        	  "confiance": "3"
             }, 
             {
               "name": "Nicolas Paraz", 
-              "id": "1172680358"
+              "id": "1172680358",
+        	  "confiance": "1"
             }, 
             {
               "name": "Alban Derrier", 
-              "id": "1241917975"
+              "id": "1241917975",
+        	  "confiance": "1"
             }, 
             {
               "name": "Camille Olive", 
-              "id": "1272373182"
+              "id": "1272373182",
+        	  "confiance": "1"
             }, 
             {
               "name": "Mickael Magnin", 
-              "id": "1492743445"
+              "id": "1492743445",
+        	  "confiance": "1"
             }, 
             {
               "name": "Saint-Jean De-Maurienne", 
-              "id": "1707015888"
+              "id": "1707015888",
+        	  "confiance": "1"
             }, 
             {
               "name": "Bertrand Rollet", 
-              "id": "1784303529"
+              "id": "1784303529",
+        	  "confiance": "1"
             }, 
             {
-              "name": "François Colin", 
-              "id": "100002397990292"
+              "name": "Franï¿½ois Colin", 
+              "id": "100002397990292",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -2194,11 +2627,13 @@
           "data": [
             {
               "name": "Marjorie Girard", 
-              "id": "1519964393"
+              "id": "1519964393",
+        	  "confiance": "1"
             }, 
             {
               "name": "Alex Bon", 
-              "id": "100003732697320"
+              "id": "100003732697320",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -2212,71 +2647,88 @@
           "data": [
             {
               "name": "Victor TorNerae", 
-              "id": "595646831"
+              "id": "595646831",
+        	  "confiance": "3"
             }, 
             {
               "name": "Pierre Guillot", 
-              "id": "638013018"
+              "id": "638013018",
+        	  "confiance": "2"
             }, 
             {
               "name": "Thibaut Bouly", 
-              "id": "677560667"
+              "id": "677560667",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Noémie Lemaire", 
-              "id": "1001384540"
+              "name": "Noï¿½mie Lemaire", 
+              "id": "1001384540",
+        	  "confiance": "1"
             }, 
             {
               "name": "Jean-Charles Marty", 
-              "id": "1027283956"
+              "id": "1027283956",
+        	  "confiance": "3"
             }, 
             {
               "name": "Alice Barbier", 
-              "id": "1275303494"
+              "id": "1275303494",
+        	  "confiance": "1"
             }, 
             {
               "name": "Joffrey Moumou", 
-              "id": "1437115924"
+              "id": "1437115924",
+        	  "confiance": "3"
             }, 
             {
               "name": "Aymeric Assier", 
-              "id": "1442522522"
+              "id": "1442522522",
+        	  "confiance": "2"
             }, 
             {
               "name": "Rodolphe Lepigre", 
-              "id": "1486652152"
+              "id": "1486652152",
+        	  "confiance": "1"
             }, 
             {
               "name": "Claire Rollinger", 
-              "id": "1580750706"
+              "id": "1580750706",
+        	  "confiance": "1"
             }, 
             {
               "name": "Julien Plateau", 
-              "id": "1600524351"
+              "id": "1600524351",
+        	  "confiance": "1"
             }, 
             {
               "name": "Rudy Regazzoni", 
-              "id": "1622406859"
+              "id": "1622406859",
+        	  "confiance": "1"
             }, 
             {
               "name": "Lionel Richter", 
-              "id": "100000486106660"
+              "id": "100000486106660",
+        	  "confiance": "1"
             }, 
             {
               "name": "Raphael Montouchet", 
-              "id": "100001368081821"
+              "id": "100001368081821",
+        	  "confiance": "1"
             }, 
             {
               "name": "Henri Bensalouf", 
-              "id": "100002122118584"
+              "id": "100002122118584",
+        	  "confiance": "1"
             }, 
             {
               "name": "Eispri Stic", 
-              "id": "100002381065572"
+              "id": "100002381065572",
+        	  "confiance": "1"
             }, 
             {
-              "name": "François Colin", 
-              "id": "100002397990292"
+              "name": "Franï¿½ois Colin", 
+              "id": "100002397990292",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -2290,31 +2742,38 @@
           "data": [
             {
               "name": "Antho Avy", 
-              "id": "1032562311"
+              "id": "1032562311",
+        	  "confiance": "1"
             }, 
             {
               "name": "Sebastien Tolron", 
-              "id": "1149983596"
+              "id": "1149983596",
+        	  "confiance": "3"
             }, 
             {
               "name": "Zio Samuele", 
-              "id": "1229878777"
+              "id": "1229878777",
+        	  "confiance": "2"
             }, 
             {
               "name": "Jeremy Marois", 
-              "id": "1329818667"
+              "id": "1329818667",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Aurél Grézille", 
-              "id": "1626845267"
+              "name": "Aurï¿½l Grï¿½zille", 
+              "id": "1626845267",
+        	  "confiance": "3"
             }, 
             {
               "name": "Raphael Montouchet", 
-              "id": "100001368081821"
+              "id": "100001368081821",
+        	  "confiance": "1"
             }, 
             {
               "name": "Giuseppe Cindolo", 
-              "id": "100001640748402"
+              "id": "100001640748402",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -2328,75 +2787,93 @@
           "data": [
             {
               "name": "Victor TorNerae", 
-              "id": "595646831"
+              "id": "595646831",
+        	  "confiance": "1"
             }, 
             {
               "name": "Pierre Guillot", 
-              "id": "638013018"
+              "id": "638013018",
+        	  "confiance": "3"
             }, 
             {
               "name": "Thibaut Bouly", 
-              "id": "677560667"
+              "id": "677560667",
+        	  "confiance": "3"
             }, 
             {
-              "name": "Noémie Lemaire", 
-              "id": "1001384540"
+              "name": "Noï¿½mie Lemaire", 
+              "id": "1001384540",
+        	  "confiance": "2"
             }, 
             {
               "name": "Sebastien Tolron", 
-              "id": "1149983596"
+              "id": "1149983596",
+        	  "confiance": "1"
             }, 
             {
               "name": "Alice Barbier", 
-              "id": "1275303494"
+              "id": "1275303494",
+        	  "confiance": "3"
             }, 
             {
               "name": "Adrien Lombard", 
-              "id": "1396212502"
+              "id": "1396212502",
+        	  "confiance": "2"
             }, 
             {
               "name": "Aymeric Assier", 
-              "id": "1442522522"
+              "id": "1442522522",
+        	  "confiance": "1"
             }, 
             {
               "name": "Rodolphe Lepigre", 
-              "id": "1486652152"
+              "id": "1486652152",
+        	  "confiance": "1"
             }, 
             {
               "name": "Anthony Rey", 
-              "id": "1516030355"
+              "id": "1516030355",
+        	  "confiance": "2"
             }, 
             {
               "name": "Claire Rollinger", 
-              "id": "1580750706"
+              "id": "1580750706",
+        	  "confiance": "1"
             }, 
             {
               "name": "Julien Plateau", 
-              "id": "1600524351"
+              "id": "1600524351",
+        	  "confiance": "2"
             }, 
             {
               "name": "Rudy Regazzoni", 
-              "id": "1622406859"
+              "id": "1622406859",
+        	  "confiance": "3"
             }, 
             {
               "name": "Lionel Richter", 
-              "id": "100000486106660"
+              "id": "100000486106660",
+        	  "confiance": "2"
             }, 
             {
               "name": "Raphael Montouchet", 
-              "id": "100001368081821"
+              "id": "100001368081821",
+        	  "confiance": "1"
             }, 
             {
               "name": "Henri Bensalouf", 
-              "id": "100002122118584"
+              "id": "100002122118584",
+        	  "confiance": "2"
             }, 
             {
               "name": "Eispri Stic", 
-              "id": "100002381065572"
+              "id": "100002381065572",
+        	  "confiance": "3"
             }, 
             {
-              "name": "François Colin", 
-              "id": "100002397990292"
+              "name": "Franï¿½ois Colin", 
+              "id": "100002397990292",
+        	  "confiance": "2"
             }
           ], 
           "paging": {
@@ -2410,71 +2887,88 @@
           "data": [
             {
               "name": "Victor TorNerae", 
-              "id": "595646831"
+              "id": "595646831",
+        	  "confiance": "1"
             }, 
             {
               "name": "Pierre Guillot", 
-              "id": "638013018"
+              "id": "638013018",
+        	  "confiance": "2"
             }, 
             {
               "name": "Thibaut Bouly", 
-              "id": "677560667"
+              "id": "677560667",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Noémie Lemaire", 
-              "id": "1001384540"
+              "name": "Noï¿½mie Lemaire", 
+              "id": "1001384540",
+        	  "confiance": "2"
             }, 
             {
               "name": "Jean-Charles Marty", 
-              "id": "1027283956"
+              "id": "1027283956",
+        	  "confiance": "1"
             }, 
             {
               "name": "Sebastien Tolron", 
-              "id": "1149983596"
+              "id": "1149983596",
+        	  "confiance": "1"
             }, 
             {
               "name": "Alice Barbier", 
-              "id": "1275303494"
+              "id": "1275303494",
+        	  "confiance": "3"
             }, 
             {
               "name": "Adrien Lombard", 
-              "id": "1396212502"
+              "id": "1396212502",
+        	  "confiance": "2"
             }, 
             {
               "name": "Joffrey Moumou", 
-              "id": "1437115924"
+              "id": "1437115924",
+        	  "confiance": "2"
             }, 
             {
               "name": "Yohann Berthon", 
-              "id": "1449220723"
+              "id": "1449220723",
+        	  "confiance": "1"
             }, 
             {
               "name": "Claire Rollinger", 
-              "id": "1580750706"
+              "id": "1580750706",
+        	  "confiance": "1"
             }, 
             {
               "name": "Julien Plateau", 
-              "id": "1600524351"
+              "id": "1600524351",
+        	  "confiance": "1"
             }, 
             {
               "name": "Rudy Regazzoni", 
-              "id": "1622406859"
+              "id": "1622406859",
+        	  "confiance": "2"
             }, 
             {
               "name": "Lionel Richter", 
-              "id": "100000486106660"
+              "id": "100000486106660",
+        	  "confiance": "2"
             }, 
             {
               "name": "Henri Bensalouf", 
-              "id": "100002122118584"
+              "id": "100002122118584",
+        	  "confiance": "3"
             }, 
             {
               "name": "Eispri Stic", 
-              "id": "100002381065572"
+              "id": "100002381065572",
+        	  "confiance": "2"
             }, 
             {
-              "name": "François Colin", 
-              "id": "100002397990292"
+              "name": "Franï¿½ois Colin", 
+              "id": "100002397990292",
+        	  "confiance": "3"
             }
           ], 
           "paging": {
@@ -2487,60 +2981,74 @@
         "mutualfriends": {
           "data": [
             {
-              "name": "François Profizi", 
-              "id": "741389748"
+              "name": "Franï¿½ois Profizi", 
+              "id": "741389748",
+        	  "confiance": "3"
             }, 
             {
               "name": "Jean-Charles Marty", 
-              "id": "1027283956"
+              "id": "1027283956",
+        	  "confiance": "1"
             }, 
             {
               "name": "Antho Avy", 
-              "id": "1032562311"
+              "id": "1032562311",
+        	  "confiance": "1"
             }, 
             {
               "name": "Sebastien Tolron", 
-              "id": "1149983596"
+              "id": "1149983596",
+        	  "confiance": "1"
             }, 
             {
               "name": "Valentin Buisson", 
-              "id": "1188746465"
+              "id": "1188746465",
+        	  "confiance": "1"
             }, 
             {
               "name": "Zio Samuele", 
-              "id": "1229878777"
+              "id": "1229878777",
+        	  "confiance": "2"
             }, 
             {
               "name": "Jojo Felicity", 
-              "id": "1240560738"
+              "id": "1240560738",
+        	  "confiance": "3"
             }, 
             {
               "name": "Hugo Tanou Kiaven'outo", 
-              "id": "1270877364"
+              "id": "1270877364",
+        	  "confiance": "3"
             }, 
             {
               "name": "Jeremy Marois", 
-              "id": "1329818667"
+              "id": "1329818667",
+        	  "confiance": "2"
             }, 
             {
               "name": "Aymeric Assier", 
-              "id": "1442522522"
+              "id": "1442522522",
+        	  "confiance": "1"
             }, 
             {
               "name": "Anthony Rey", 
-              "id": "1516030355"
+              "id": "1516030355",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Rémi Geny-Dumont", 
-              "id": "1550315312"
+              "name": "Rï¿½mi Geny-Dumont", 
+              "id": "1550315312",
+        	  "confiance": "1"
             }, 
             {
               "name": "Giuseppe Cindolo", 
-              "id": "100001640748402"
+              "id": "100001640748402",
+        	  "confiance": "2"
             }, 
             {
               "name": "Alexandre Capellaro", 
-              "id": "100001746677724"
+              "id": "100001746677724",
+        	  "confiance": "2"
             }
           ], 
           "paging": {
@@ -2554,59 +3062,73 @@
           "data": [
             {
               "name": "Jalil Djabelkhir", 
-              "id": "526039085"
+              "id": "526039085",
+        	  "confiance": "3"
             }, 
             {
               "name": "Reuno La Paix Rot", 
-              "id": "545488741"
+              "id": "545488741",
+        	  "confiance": "2"
             }, 
             {
               "name": "Victor TorNerae", 
-              "id": "595646831"
+              "id": "595646831",
+        	  "confiance": "3"
             }, 
             {
               "name": "Pierre Guillot", 
-              "id": "638013018"
+              "id": "638013018",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Noémie Lemaire", 
-              "id": "1001384540"
+              "name": "Noï¿½mie Lemaire", 
+              "id": "1001384540",
+        	  "confiance": "1"
             }, 
             {
               "name": "Jean-Charles Marty", 
-              "id": "1027283956"
+              "id": "1027283956",
+        	  "confiance": "2"
             }, 
             {
               "name": "Laure Legrand", 
-              "id": "1191842232"
+              "id": "1191842232",
+        	  "confiance": "1"
             }, 
             {
               "name": "Adrien Lombard", 
-              "id": "1396212502"
+              "id": "1396212502",
+        	  "confiance": "2"
             }, 
             {
               "name": "Joffrey Moumou", 
-              "id": "1437115924"
+              "id": "1437115924",
+        	  "confiance": "1"
             }, 
             {
               "name": "Claire Rollinger", 
-              "id": "1580750706"
+              "id": "1580750706",
+        	  "confiance": "3"
             }, 
             {
               "name": "Rudy Regazzoni", 
-              "id": "1622406859"
+              "id": "1622406859",
+        	  "confiance": "2"
             }, 
             {
               "name": "Lionel Richter", 
-              "id": "100000486106660"
+              "id": "100000486106660",
+        	  "confiance": "1"
             }, 
             {
               "name": "Eispri Stic", 
-              "id": "100002381065572"
+              "id": "100002381065572",
+        	  "confiance": "3"
             }, 
             {
-              "name": "François Colin", 
-              "id": "100002397990292"
+              "name": "Franï¿½ois Colin", 
+              "id": "100002397990292",
+        	  "confiance": "2"
             }
           ], 
           "paging": {
@@ -2620,47 +3142,58 @@
           "data": [
             {
               "name": "Pasquier Kevin", 
-              "id": "634129604"
+              "id": "634129604",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Rémi Trouillon", 
-              "id": "1140174162"
+              "name": "Rï¿½mi Trouillon", 
+              "id": "1140174162",
+        	  "confiance": "2"
             }, 
             {
               "name": "Nicolas Paraz", 
-              "id": "1172680358"
+              "id": "1172680358",
+        	  "confiance": "3"
             }, 
             {
               "name": "Laure Legrand", 
-              "id": "1191842232"
+              "id": "1191842232",
+        	  "confiance": "2"
             }, 
             {
               "name": "Alban Derrier", 
-              "id": "1241917975"
+              "id": "1241917975",
+        	  "confiance": "3"
             }, 
             {
               "name": "Joris Sammassimo", 
-              "id": "1361972097"
+              "id": "1361972097",
+        	  "confiance": "2"
             }, 
             {
               "name": "Anthony Muscara", 
-              "id": "1548909381"
+              "id": "1548909381",
+        	  "confiance": "2"
             }, 
             {
-              "name": "Cécile Giraud", 
-              "id": "1568672808"
+              "name": "Cï¿½cile Giraud", 
+              "id": "1568672808",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Raphaël Governali", 
-              "id": "1582518800"
+              "name": "Raphaï¿½l Governali", 
+              "id": "1582518800",
+        	  "confiance": "1"
             }, 
             {
               "name": "Hugues Les Marteaux Pikeurs", 
-              "id": "100000026246861"
+              "id": "100000026246861",
+        	  "confiance": "1"
             }, 
             {
               "name": "Latelier Coiffure", 
-              "id": "100006267483735"
+              "id": "100006267483735",
+        	  "confiance": "3"
             }
           ], 
           "paging": {
@@ -2674,91 +3207,113 @@
           "data": [
             {
               "name": "Victor TorNerae", 
-              "id": "595646831"
+              "id": "595646831",
+        	  "confiance": "1"
             }, 
             {
-              "name": "François Profizi", 
-              "id": "741389748"
+              "name": "Franï¿½ois Profizi", 
+              "id": "741389748",
+        	  "confiance": "2"
             }, 
             {
               "name": "Jean-Charles Marty", 
-              "id": "1027283956"
+              "id": "1027283956",
+        	  "confiance": "1"
             }, 
             {
               "name": "Antho Avy", 
-              "id": "1032562311"
+              "id": "1032562311",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Rémi Trouillon", 
-              "id": "1140174162"
+              "name": "Rï¿½mi Trouillon", 
+              "id": "1140174162",
+        	  "confiance": "1"
             }, 
             {
               "name": "Sebastien Tolron", 
-              "id": "1149983596"
+              "id": "1149983596",
+        	  "confiance": "3"
             }, 
             {
               "name": "Valentin Buisson", 
-              "id": "1188746465"
+              "id": "1188746465",
+        	  "confiance": "1"
             }, 
             {
               "name": "Zio Samuele", 
-              "id": "1229878777"
+              "id": "1229878777",
+        	  "confiance": "3"
             }, 
             {
               "name": "Jojo Felicity", 
-              "id": "1240560738"
+              "id": "1240560738",
+        	  "confiance": "2"
             }, 
             {
               "name": "Hugo Tanou Kiaven'outo", 
-              "id": "1270877364"
+              "id": "1270877364",
+        	  "confiance": "2"
             }, 
             {
               "name": "Alice Barbier", 
-              "id": "1275303494"
+              "id": "1275303494",
+        	  "confiance": "1"
             }, 
             {
               "name": "Jeremy Marois", 
-              "id": "1329818667"
+              "id": "1329818667",
+        	  "confiance": "1"
             }, 
             {
               "name": "Joffrey Moumou", 
-              "id": "1437115924"
+              "id": "1437115924",
+        	  "confiance": "1"
             }, 
             {
               "name": "Yohann Berthon", 
-              "id": "1449220723"
+              "id": "1449220723",
+        	  "confiance": "3"
             }, 
             {
-              "name": "Rémi Geny-Dumont", 
-              "id": "1550315312"
+              "name": "Rï¿½mi Geny-Dumont", 
+              "id": "1550315312",
+        	  "confiance": "1"
             }, 
             {
               "name": "Julien Plateau", 
-              "id": "1600524351"
+              "id": "1600524351",
+        	  "confiance": "3"
             }, 
             {
               "name": "Rudy Regazzoni", 
-              "id": "1622406859"
+              "id": "1622406859",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Aurél Grézille", 
-              "id": "1626845267"
+              "name": "Aurï¿½l Grï¿½zille", 
+              "id": "1626845267",
+        	  "confiance": "2"
             }, 
             {
               "name": "Raphael Montouchet", 
-              "id": "100001368081821"
+              "id": "100001368081821",
+        	  "confiance": "3"
             }, 
             {
               "name": "Giuseppe Cindolo", 
-              "id": "100001640748402"
+              "id": "100001640748402",
+        	  "confiance": "3"
             }, 
             {
               "name": "Eispri Stic", 
-              "id": "100002381065572"
+              "id": "100002381065572",
+        	  "confiance": "3"
             }, 
             {
-              "name": "François Colin", 
-              "id": "100002397990292"
+              "name": "Franï¿½ois Colin", 
+              "id": "100002397990292",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -2771,60 +3326,74 @@
         "mutualfriends": {
           "data": [
             {
-              "name": "Cédric Bosviel", 
-              "id": "1011271044"
+              "name": "Cï¿½dric Bosviel", 
+              "id": "1011271044",
+        	  "confiance": "1"
             }, 
             {
               "name": "Romane Metral", 
-              "id": "1035069400"
+              "id": "1035069400",
+        	  "confiance": "2"
             }, 
             {
               "name": "David Thomas", 
-              "id": "1162124692"
+              "id": "1162124692",
+        	  "confiance": "1"
             }, 
             {
               "name": "Laure Legrand", 
-              "id": "1191842232"
+              "id": "1191842232",
+        	  "confiance": "1"
             }, 
             {
               "name": "Edwige Decomble", 
-              "id": "1366740265"
+              "id": "1366740265",
+        	  "confiance": "1"
             }, 
             {
               "name": "Cedric Toxirina Tigrou", 
-              "id": "1559928323"
+              "id": "1559928323",
+        	  "confiance": "2"
             }, 
             {
               "name": "Jimmy Lesage", 
-              "id": "1651008159"
+              "id": "1651008159",
+        	  "confiance": "3"
             }, 
             {
               "name": "Saint-Jean De-Maurienne", 
-              "id": "1707015888"
+              "id": "1707015888",
+        	  "confiance": "3"
             }, 
             {
-              "name": "Valène Salavin", 
-              "id": "100000224883542"
+              "name": "Valï¿½ne Salavin", 
+              "id": "100000224883542",
+        	  "confiance": "2"
             }, 
             {
               "name": "Anthony Girard", 
-              "id": "100001479486182"
+              "id": "100001479486182",
+        	  "confiance": "1"
             }, 
             {
-              "name": "François Colin", 
-              "id": "100002397990292"
+              "name": "Franï¿½ois Colin", 
+              "id": "100002397990292",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Cécile Gavot", 
-              "id": "100003594767197"
+              "name": "Cï¿½cile Gavot", 
+              "id": "100003594767197",
+        	  "confiance": "2"
             }, 
             {
               "name": "Alex Bon", 
-              "id": "100003732697320"
+              "id": "100003732697320",
+        	  "confiance": "1"
             }, 
             {
               "name": "Mat Moulin", 
-              "id": "100006295987646"
+              "id": "100006295987646",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -2838,47 +3407,58 @@
           "data": [
             {
               "name": "Pasquier Kevin", 
-              "id": "634129604"
+              "id": "634129604",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Cédric Bosviel", 
-              "id": "1011271044"
+              "name": "Cï¿½dric Bosviel", 
+              "id": "1011271044",
+        	  "confiance": "3"
             }, 
             {
               "name": "Fabien Ardiri", 
-              "id": "1066810712"
+              "id": "1066810712",
+        	  "confiance": "2"
             }, 
             {
-              "name": "Rémi Trouillon", 
-              "id": "1140174162"
+              "name": "Rï¿½mi Trouillon", 
+              "id": "1140174162",
+        	  "confiance": "1"
             }, 
             {
               "name": "Chach Avanzi", 
-              "id": "1147239577"
+              "id": "1147239577",
+        	  "confiance": "3"
             }, 
             {
               "name": "Nicolas Paraz", 
-              "id": "1172680358"
+              "id": "1172680358",
+        	  "confiance": "1"
             }, 
             {
               "name": "Alban Derrier", 
-              "id": "1241917975"
+              "id": "1241917975",
+        	  "confiance": "1"
             }, 
             {
               "name": "Camille Olive", 
-              "id": "1272373182"
+              "id": "1272373182",
+        	  "confiance": "2"
             }, 
             {
               "name": "Anthony Muscara", 
-              "id": "1548909381"
+              "id": "1548909381",
+        	  "confiance": "2"
             }, 
             {
-              "name": "Cécile Giraud", 
-              "id": "1568672808"
+              "name": "Cï¿½cile Giraud", 
+              "id": "1568672808",
+        	  "confiance": "1"
             }, 
             {
               "name": "Dat' Motos", 
-              "id": "100001187713756"
+              "id": "100001187713756",
+        	  "confiance": "3"
             }
           ], 
           "paging": {
@@ -2892,31 +3472,38 @@
           "data": [
             {
               "name": "Pasquier Kevin", 
-              "id": "634129604"
+              "id": "634129604",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Rémi Trouillon", 
-              "id": "1140174162"
+              "name": "Rï¿½mi Trouillon", 
+              "id": "1140174162",
+        	  "confiance": "2"
             }, 
             {
               "name": "Nicolas Paraz", 
-              "id": "1172680358"
+              "id": "1172680358",
+        	  "confiance": "3"
             }, 
             {
               "name": "Alban Derrier", 
-              "id": "1241917975"
+              "id": "1241917975",
+        	  "confiance": "3"
             }, 
             {
               "name": "Mickael Magnin", 
-              "id": "1492743445"
+              "id": "1492743445",
+        	  "confiance": "3"
             }, 
             {
               "name": "Joss Derrier", 
-              "id": "1529178882"
+              "id": "1529178882",
+        	  "confiance": "2"
             }, 
             {
               "name": "Dat' Motos", 
-              "id": "100001187713756"
+              "id": "100001187713756",
+        	  "confiance": "2"
             }
           ], 
           "paging": {
@@ -2930,55 +3517,68 @@
           "data": [
             {
               "name": "Jean-Charles Marty", 
-              "id": "1027283956"
+              "id": "1027283956",
+        	  "confiance": "1"
             }, 
             {
               "name": "Antho Avy", 
-              "id": "1032562311"
+              "id": "1032562311",
+        	  "confiance": "3"
             }, 
             {
               "name": "Sebastien Tolron", 
-              "id": "1149983596"
+              "id": "1149983596",
+        	  "confiance": "3"
             }, 
             {
               "name": "Valentin Buisson", 
-              "id": "1188746465"
+              "id": "1188746465",
+        	  "confiance": "2"
             }, 
             {
               "name": "Jojo Felicity", 
-              "id": "1240560738"
+              "id": "1240560738",
+        	  "confiance": "2"
             }, 
             {
               "name": "Hugo Tanou Kiaven'outo", 
-              "id": "1270877364"
+              "id": "1270877364",
+        	  "confiance": "2"
             }, 
             {
               "name": "Jeremy Marois", 
-              "id": "1329818667"
+              "id": "1329818667",
+        	  "confiance": "3"
             }, 
             {
               "name": "Yohann Berthon", 
-              "id": "1449220723"
+              "id": "1449220723",
+        	  "confiance": "1"
             }, 
             {
               "name": "Anthony Rey", 
-              "id": "1516030355"
+              "id": "1516030355",
+        	  "confiance": "1"
             }, 
             {
               "name": "Claire Rollinger", 
-              "id": "1580750706"
+              "id": "1580750706",
+        	  "confiance": "1"
             }, 
             {
               "name": "Raphael Montouchet", 
-              "id": "100001368081821"
+              "id": "100001368081821",
+        	  "confiance": "2"
             }, 
             {
               "name": "Giuseppe Cindolo", 
-              "id": "100001640748402"
+              "id": "100001640748402",
+        	  "confiance": "1"
             }, 
             {
               "name": "Alexandre Capellaro", 
-              "id": "100001746677724"
+              "id": "100001746677724",
+        	  "confiance": "2"
             }
           ], 
           "paging": {
@@ -2992,19 +3592,23 @@
           "data": [
             {
               "name": "Lulith Hichihara", 
-              "id": "690808183"
+              "id": "690808183",
+        	  "confiance": "2"
             }, 
             {
-              "name": "Céline Bonnaure", 
-              "id": "1639900412"
+              "name": "Cï¿½line Bonnaure", 
+              "id": "1639900412",
+        	  "confiance": "3"
             }, 
             {
               "name": "Laura Tourillon", 
-              "id": "100000741533418"
+              "id": "100000741533418",
+        	  "confiance": "1"
             }, 
             {
               "name": "Martin Bonnaure", 
-              "id": "100003720176250"
+              "id": "100003720176250",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -3018,7 +3622,8 @@
           "data": [
             {
               "name": "Marjorie Girard", 
-              "id": "1519964393"
+              "id": "1519964393",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -3032,43 +3637,53 @@
           "data": [
             {
               "name": "Pasquier Kevin", 
-              "id": "634129604"
+              "id": "634129604",
+        	  "confiance": "1"
             }, 
             {
               "name": "Karine Girard", 
-              "id": "725217994"
+              "id": "725217994",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Rémi Trouillon", 
-              "id": "1140174162"
+              "name": "Rï¿½mi Trouillon", 
+              "id": "1140174162",
+        	  "confiance": "3"
             }, 
             {
               "name": "Chach Avanzi", 
-              "id": "1147239577"
+              "id": "1147239577",
+        	  "confiance": "1"
             }, 
             {
               "name": "Nicolas Paraz", 
-              "id": "1172680358"
+              "id": "1172680358",
+        	  "confiance": "2"
             }, 
             {
               "name": "Alban Derrier", 
-              "id": "1241917975"
+              "id": "1241917975",
+        	  "confiance": "1"
             }, 
             {
               "name": "Mickael Magnin", 
-              "id": "1492743445"
+              "id": "1492743445",
+        	  "confiance": "2"
             }, 
             {
               "name": "Joss Derrier", 
-              "id": "1529178882"
+              "id": "1529178882",
+        	  "confiance": "3"
             }, 
             {
               "name": "Saint-Jean De-Maurienne", 
-              "id": "1707015888"
+              "id": "1707015888",
+        	  "confiance": "1"
             }, 
             {
-              "name": "François Colin", 
-              "id": "100002397990292"
+              "name": "Franï¿½ois Colin", 
+              "id": "100002397990292",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -3082,79 +3697,98 @@
           "data": [
             {
               "name": "Pierre Guillot", 
-              "id": "638013018"
+              "id": "638013018",
+        	  "confiance": "3"
             }, 
             {
               "name": "Thibaut Bouly", 
-              "id": "677560667"
+              "id": "677560667",
+        	  "confiance": "1"
             }, 
             {
-              "name": "François Profizi", 
-              "id": "741389748"
+              "name": "Franï¿½ois Profizi", 
+              "id": "741389748",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Noémie Lemaire", 
-              "id": "1001384540"
+              "name": "Noï¿½mie Lemaire", 
+              "id": "1001384540",
+        	  "confiance": "1"
             }, 
             {
               "name": "Jean-Charles Marty", 
-              "id": "1027283956"
+              "id": "1027283956",
+        	  "confiance": "1"
             }, 
             {
               "name": "Sebastien Tolron", 
-              "id": "1149983596"
+              "id": "1149983596",
+        	  "confiance": "2"
             }, 
             {
               "name": "Alice Barbier", 
-              "id": "1275303494"
+              "id": "1275303494",
+        	  "confiance": "2"
             }, 
             {
               "name": "Adrien Lombard", 
-              "id": "1396212502"
+              "id": "1396212502",
+        	  "confiance": "1"
             }, 
             {
               "name": "Joffrey Moumou", 
-              "id": "1437115924"
+              "id": "1437115924",
+        	  "confiance": "1"
             }, 
             {
               "name": "Aymeric Assier", 
-              "id": "1442522522"
+              "id": "1442522522",
+        	  "confiance": "3"
             }, 
             {
               "name": "Rodolphe Lepigre", 
-              "id": "1486652152"
+              "id": "1486652152",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Rémi Geny-Dumont", 
-              "id": "1550315312"
+              "name": "Rï¿½mi Geny-Dumont", 
+              "id": "1550315312",
+        	  "confiance": "3"
             }, 
             {
               "name": "Julien Plateau", 
-              "id": "1600524351"
+              "id": "1600524351",
+        	  "confiance": "3"
             }, 
             {
               "name": "Rudy Regazzoni", 
-              "id": "1622406859"
+              "id": "1622406859",
+        	  "confiance": "2"
             }, 
             {
               "name": "Lionel Richter", 
-              "id": "100000486106660"
+              "id": "100000486106660",
+        	  "confiance": "2"
             }, 
             {
               "name": "Raphael Montouchet", 
-              "id": "100001368081821"
+              "id": "100001368081821",
+        	  "confiance": "3"
             }, 
             {
               "name": "Henri Bensalouf", 
-              "id": "100002122118584"
+              "id": "100002122118584",
+        	  "confiance": "1"
             }, 
             {
               "name": "Eispri Stic", 
-              "id": "100002381065572"
+              "id": "100002381065572",
+        	  "confiance": "2"
             }, 
             {
-              "name": "François Colin", 
-              "id": "100002397990292"
+              "name": "Franï¿½ois Colin", 
+              "id": "100002397990292",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -3168,7 +3802,8 @@
           "data": [
             {
               "name": "Mickael Magnin", 
-              "id": "1492743445"
+              "id": "1492743445",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -3182,63 +3817,78 @@
           "data": [
             {
               "name": "Victor TorNerae", 
-              "id": "595646831"
+              "id": "595646831",
+        	  "confiance": "2"
             }, 
             {
               "name": "Thibaut Bouly", 
-              "id": "677560667"
+              "id": "677560667",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Noémie Lemaire", 
-              "id": "1001384540"
+              "name": "Noï¿½mie Lemaire", 
+              "id": "1001384540",
+        	  "confiance": "1"
             }, 
             {
               "name": "Jean-Charles Marty", 
-              "id": "1027283956"
+              "id": "1027283956",
+        	  "confiance": "1"
             }, 
             {
               "name": "Alice Barbier", 
-              "id": "1275303494"
+              "id": "1275303494",
+        	  "confiance": "2"
             }, 
             {
               "name": "Adrien Lombard", 
-              "id": "1396212502"
+              "id": "1396212502",
+        	  "confiance": "3"
             }, 
             {
               "name": "Joffrey Moumou", 
-              "id": "1437115924"
+              "id": "1437115924",
+        	  "confiance": "1"
             }, 
             {
               "name": "Aymeric Assier", 
-              "id": "1442522522"
+              "id": "1442522522",
+        	  "confiance": "1"
             }, 
             {
               "name": "Anthony Rey", 
-              "id": "1516030355"
+              "id": "1516030355",
+        	  "confiance": "2"
             }, 
             {
               "name": "Claire Rollinger", 
-              "id": "1580750706"
+              "id": "1580750706",
+        	  "confiance": "2"
             }, 
             {
               "name": "Rudy Regazzoni", 
-              "id": "1622406859"
+              "id": "1622406859",
+        	  "confiance": "1"
             }, 
             {
               "name": "Lionel Richter", 
-              "id": "100000486106660"
+              "id": "100000486106660",
+        	  "confiance": "1"
             }, 
             {
               "name": "Henri Bensalouf", 
-              "id": "100002122118584"
+              "id": "100002122118584",
+        	  "confiance": """
             }, 
             {
               "name": "Eispri Stic", 
-              "id": "100002381065572"
+              "id": "100002381065572",
+        	  "confiance": "2"
             }, 
             {
-              "name": "François Colin", 
-              "id": "100002397990292"
+              "name": "Franï¿½ois Colin", 
+              "id": "100002397990292",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -3252,11 +3902,13 @@
           "data": [
             {
               "name": "Chach Avanzi", 
-              "id": "1147239577"
+              "id": "1147239577",
+        	  "confiance": "2"
             }, 
             {
               "name": "Alban Derrier", 
-              "id": "1241917975"
+              "id": "1241917975",
+        	  "confiance": "3"
             }
           ], 
           "paging": {
@@ -3270,83 +3922,103 @@
           "data": [
             {
               "name": "Jalil Djabelkhir", 
-              "id": "526039085"
+              "id": "526039085",
+        	  "confiance": "3"
             }, 
             {
               "name": "Victor TorNerae", 
-              "id": "595646831"
+              "id": "595646831",
+        	  "confiance": "2"
             }, 
             {
               "name": "Pierre Guillot", 
-              "id": "638013018"
+              "id": "638013018",
+        	  "confiance": "1"
             }, 
             {
               "name": "Thibaut Bouly", 
-              "id": "677560667"
+              "id": "677560667",
+        	  "confiance": "1"
             }, 
             {
-              "name": "François Profizi", 
-              "id": "741389748"
+              "name": "Franï¿½ois Profizi", 
+              "id": "741389748",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Noémie Lemaire", 
-              "id": "1001384540"
+              "name": "Noï¿½mie Lemaire", 
+              "id": "1001384540",
+        	  "confiance": "3"
             }, 
             {
               "name": "Jean-Charles Marty", 
-              "id": "1027283956"
+              "id": "1027283956",
+        	  "confiance": "1"
             }, 
             {
               "name": "Alice Barbier", 
-              "id": "1275303494"
+              "id": "1275303494",
+        	  "confiance": "3"
             }, 
             {
               "name": "Adrien Lombard", 
-              "id": "1396212502"
+              "id": "1396212502",
+        	  "confiance": "1"
             }, 
             {
               "name": "Joffrey Moumou", 
-              "id": "1437115924"
+              "id": "1437115924",
+        	  "confiance": "1"
             }, 
             {
               "name": "Aymeric Assier", 
-              "id": "1442522522"
+              "id": "1442522522",
+        	  "confiance": "3"
             }, 
             {
               "name": "Rodolphe Lepigre", 
-              "id": "1486652152"
+              "id": "1486652152",
+        	  "confiance": "3"
             }, 
             {
               "name": "Anthony Rey", 
-              "id": "1516030355"
+              "id": "1516030355",
+        	  "confiance": "2"
             }, 
             {
               "name": "Claire Rollinger", 
-              "id": "1580750706"
+              "id": "1580750706",
+        	  "confiance": "1"
             }, 
             {
               "name": "Julien Plateau", 
-              "id": "1600524351"
+              "id": "1600524351",
+        	  "confiance": "2"
             }, 
             {
               "name": "Lionel Richter", 
-              "id": "100000486106660"
+              "id": "100000486106660",
+        	  "confiance": "3"
             }, 
             {
               "name": "Raphael Montouchet", 
-              "id": "100001368081821"
+              "id": "100001368081821",
+        	  "confiance": "2"
             }, 
             {
               "name": "Henri Bensalouf", 
-              "id": "100002122118584"
+              "id": "100002122118584",
+        	  "confiance": "1"
             }, 
             {
               "name": "Eispri Stic", 
-              "id": "100002381065572"
+              "id": "100002381065572",
+        	  "confiance": "3"
             }, 
             {
-              "name": "François Colin", 
-              "id": "100002397990292"
+              "name": "Franï¿½ois Colin", 
+              "id": "100002397990292",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -3360,15 +4032,18 @@
           "data": [
             {
               "name": "Jojo Felicity", 
-              "id": "1240560738"
+              "id": "1240560738",
+        	  "confiance": "3"
             }, 
             {
               "name": "Jami Noux", 
-              "id": "1409420831"
+              "id": "1409420831",
+        	  "confiance": "3"
             }, 
             {
               "name": "Anthony Rey", 
-              "id": "1516030355"
+              "id": "1516030355",
+        	  "confiance": "2"
             }
           ], 
           "paging": {
@@ -3382,31 +4057,38 @@
           "data": [
             {
               "name": "Lulith Hichihara", 
-              "id": "690808183"
+              "id": "690808183",
+        	  "confiance": "2"
             }, 
             {
-              "name": "Cédric Bosviel", 
-              "id": "1011271044"
+              "name": "Cï¿½dric Bosviel", 
+              "id": "1011271044",
+        	  "confiance": "1"
             }, 
             {
-              "name": "François Guiraud", 
-              "id": "1554286201"
+              "name": "Franï¿½ois Guiraud", 
+              "id": "1554286201",
+        	  "confiance": "2"
             }, 
             {
               "name": "Aurelien Chaix", 
-              "id": "100000151767666"
+              "id": "100000151767666",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Gisèle Guiraud Tourillon", 
-              "id": "100000306661270"
+              "name": "Gisï¿½le Guiraud Tourillon", 
+              "id": "100000306661270",
+        	  "confiance": "1"
             }, 
             {
               "name": "Laura Tourillon", 
-              "id": "100000741533418"
+              "id": "100000741533418",
+        	  "confiance": "1"
             }, 
             {
               "name": "Martin Bonnaure", 
-              "id": "100003720176250"
+              "id": "100003720176250",
+        	  "confiance": "2"
             }
           ], 
           "paging": {
@@ -3420,11 +4102,13 @@
           "data": [
             {
               "name": "Baptiste Court", 
-              "id": "1013648806"
+              "id": "1013648806",
+        	  "confiance": "1"
             }, 
             {
               "name": "Dom Antonacci", 
-              "id": "1199884223"
+              "id": "1199884223",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -3438,7 +4122,8 @@
           "data": [
             {
               "name": "Marjorie Girard", 
-              "id": "1519964393"
+              "id": "1519964393",
+        	  "confiance": "2"
             }
           ], 
           "paging": {
@@ -3452,55 +4137,68 @@
           "data": [
             {
               "name": "Pasquier Kevin", 
-              "id": "634129604"
+              "id": "634129604",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Rémi Trouillon", 
-              "id": "1140174162"
+              "name": "Rï¿½mi Trouillon", 
+              "id": "1140174162",
+        	  "confiance": "1"
             }, 
             {
               "name": "Nicolas Paraz", 
-              "id": "1172680358"
+              "id": "1172680358",
+        	  "confiance": "1"
             }, 
             {
               "name": "Dom Antonacci", 
-              "id": "1199884223"
+              "id": "1199884223",
+        	  "confiance": "3"
             }, 
             {
               "name": "Camille Olive", 
-              "id": "1272373182"
+              "id": "1272373182",
+        	  "confiance": "1"
             }, 
             {
               "name": "Romain Cartier-Lange", 
-              "id": "1353126619"
+              "id": "1353126619",
+        	  "confiance": "3"
             }, 
             {
               "name": "Joris Sammassimo", 
-              "id": "1361972097"
+              "id": "1361972097",
+        	  "confiance": "1"
             }, 
             {
               "name": "Marjorie Girard", 
-              "id": "1519964393"
+              "id": "1519964393",
+        	  "confiance": "2"
             }, 
             {
-              "name": "Cécile Giraud", 
-              "id": "1568672808"
+              "name": "Cï¿½cile Giraud", 
+              "id": "1568672808",
+        	  "confiance": "3"
             }, 
             {
               "name": "Bertrand Rollet", 
-              "id": "1784303529"
+              "id": "1784303529",
+        	  "confiance": "1"
             }, 
             {
               "name": "Dat' Motos", 
-              "id": "100001187713756"
+              "id": "100001187713756",
+        	  "confiance": "3"
             }, 
             {
-              "name": "François Colin", 
-              "id": "100002397990292"
+              "name": "Franï¿½ois Colin", 
+              "id": "100002397990292",
+        	  "confiance": "3"
             }, 
             {
               "name": "Latelier Coiffure", 
-              "id": "100006267483735"
+              "id": "100006267483735",
+        	  "confiance": "2"
             }
           ], 
           "paging": {
@@ -3513,16 +4211,19 @@
         "mutualfriends": {
           "data": [
             {
-              "name": "Valène Salavin", 
-              "id": "100000224883542"
+              "name": "Valï¿½ne Salavin", 
+              "id": "100000224883542",
+        	  "confiance": "1"
             }, 
             {
-              "name": "François Colin", 
-              "id": "100002397990292"
+              "name": "Franï¿½ois Colin", 
+              "id": "100002397990292",
+        	  "confiance": "1"
             }, 
             {
               "name": "Mat Moulin", 
-              "id": "100006295987646"
+              "id": "100006295987646",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -3536,23 +4237,28 @@
           "data": [
             {
               "name": "Baptiste Court", 
-              "id": "1013648806"
+              "id": "1013648806",
+        	  "confiance": "3"
             }, 
             {
               "name": "Alban Derrier", 
-              "id": "1241917975"
+              "id": "1241917975",
+        	  "confiance": "2"
             }, 
             {
               "name": "Joris Sammassimo", 
-              "id": "1361972097"
+              "id": "1361972097",
+        	  "confiance": "2"
             }, 
             {
               "name": "Saint-Jean De-Maurienne", 
-              "id": "1707015888"
+              "id": "1707015888",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Cécile Gavot", 
-              "id": "100003594767197"
+              "name": "Cï¿½cile Gavot", 
+              "id": "100003594767197",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -3566,7 +4272,8 @@
           "data": [
             {
               "name": "Mickael Magnin", 
-              "id": "1492743445"
+              "id": "1492743445",
+        	  "confiance": "2"
             }
           ], 
           "paging": {
@@ -3580,35 +4287,43 @@
           "data": [
             {
               "name": "Romane Metral", 
-              "id": "1035069400"
+              "id": "1035069400",
+        	  "confiance": "2"
             }, 
             {
-              "name": "Céline Bonnaure", 
-              "id": "1639900412"
+              "name": "Cï¿½line Bonnaure", 
+              "id": "1639900412",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Valène Salavin", 
-              "id": "100000224883542"
+              "name": "Valï¿½ne Salavin", 
+              "id": "100000224883542",
+        	  "confiance": "1"
             }, 
             {
               "name": "Kryss Salavin", 
-              "id": "100000244146583"
+              "id": "100000244146583",
+        	  "confiance": "3"
             }, 
             {
-              "name": "François Colin", 
-              "id": "100002397990292"
+              "name": "Franï¿½ois Colin", 
+              "id": "100002397990292",
+        	  "confiance": "2"
             }, 
             {
               "name": "Ariane Castellan", 
-              "id": "100003404233132"
+              "id": "100003404233132",
+        	  "confiance": "2"
             }, 
             {
-              "name": "Cécile Gavot", 
-              "id": "100003594767197"
+              "name": "Cï¿½cile Gavot", 
+              "id": "100003594767197",
+        	  "confiance": "1"
             }, 
             {
               "name": "Mat Moulin", 
-              "id": "100006295987646"
+              "id": "100006295987646",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -3622,23 +4337,28 @@
           "data": [
             {
               "name": "Flo Cavallo", 
-              "id": "565914717"
+              "id": "565914717",
+        	  "confiance": "2"
             }, 
             {
               "name": "Thomas Boyer", 
-              "id": "697614500"
+              "id": "697614500",
+        	  "confiance": "1"
             }, 
             {
               "name": "Alexandre Vasseur", 
-              "id": "1143474855"
+              "id": "1143474855",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Alizée Jacquot", 
-              "id": "1278501526"
+              "name": "Alizï¿½e Jacquot", 
+              "id": "1278501526",
+        	  "confiance": "1"
             }, 
             {
               "name": "Matthieu Perrin", 
-              "id": "100000646034740"
+              "id": "100000646034740",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -3652,39 +4372,48 @@
           "data": [
             {
               "name": "Romane Metral", 
-              "id": "1035069400"
+              "id": "1035069400",
+        	  "confiance": "1"
             }, 
             {
               "name": "Romain Cartier-Lange", 
-              "id": "1353126619"
+              "id": "1353126619",
+        	  "confiance": "3"
             }, 
             {
               "name": "Marjorie Girard", 
-              "id": "1519964393"
+              "id": "1519964393",
+        	  "confiance": "2"
             }, 
             {
               "name": "Morgane Vergnon", 
-              "id": "1708432329"
+              "id": "1708432329",
+        	  "confiance": "2"
             }, 
             {
               "name": "Aurelien Chaix", 
-              "id": "100000151767666"
+              "id": "100000151767666",
+        	  "confiance": "1"
             }, 
             {
               "name": "Kryss Salavin", 
-              "id": "100000244146583"
+              "id": "100000244146583",
+        	  "confiance": "1"
             }, 
             {
-              "name": "François Colin", 
-              "id": "100002397990292"
+              "name": "Franï¿½ois Colin", 
+              "id": "100002397990292",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Cécile Gavot", 
-              "id": "100003594767197"
+              "name": "Cï¿½cile Gavot", 
+              "id": "100003594767197",
+        	  "confiance": "2"
             }, 
             {
               "name": "Mat Moulin", 
-              "id": "100006295987646"
+              "id": "100006295987646",
+        	  "confiance": "3"
             }
           ], 
           "paging": {
@@ -3698,27 +4427,33 @@
           "data": [
             {
               "name": "Romane Metral", 
-              "id": "1035069400"
+              "id": "1035069400",
+        	  "confiance": "3"
             }, 
             {
               "name": "Romain Cartier-Lange", 
-              "id": "1353126619"
+              "id": "1353126619",
+        	  "confiance": "2"
             }, 
             {
               "name": "Aurelien Chaix", 
-              "id": "100000151767666"
+              "id": "100000151767666",
+        	  "confiance": "2"
             }, 
             {
-              "name": "Valène Salavin", 
-              "id": "100000224883542"
+              "name": "Valï¿½ne Salavin", 
+              "id": "100000224883542",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Cécile Gavot", 
-              "id": "100003594767197"
+              "name": "Cï¿½cile Gavot", 
+              "id": "100003594767197",
+        	  "confiance": "1"
             }, 
             {
               "name": "Mat Moulin", 
-              "id": "100006295987646"
+              "id": "100006295987646",
+        	  "confiance": "3"
             }
           ], 
           "paging": {
@@ -3732,27 +4467,33 @@
           "data": [
             {
               "name": "Lulith Hichihara", 
-              "id": "690808183"
+              "id": "690808183",
+        	  "confiance": "3"
             }, 
             {
-              "name": "Cédric Bosviel", 
-              "id": "1011271044"
+              "name": "Cï¿½dric Bosviel", 
+              "id": "1011271044",
+        	  "confiance": "1"
             }, 
             {
               "name": "Laure Legrand", 
-              "id": "1191842232"
+              "id": "1191842232",
+        	  "confiance": "2"
             }, 
             {
-              "name": "Céline Bonnaure", 
-              "id": "1639900412"
+              "name": "Cï¿½line Bonnaure", 
+              "id": "1639900412",
+        	  "confiance": "1"
             }, 
             {
               "name": "Laura Tourillon", 
-              "id": "100000741533418"
+              "id": "100000741533418",
+        	  "confiance": "1"
             }, 
             {
               "name": "Martin Bonnaure", 
-              "id": "100003720176250"
+              "id": "100003720176250",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -3766,63 +4507,78 @@
           "data": [
             {
               "name": "Reuno La Paix Rot", 
-              "id": "545488741"
+              "id": "545488741",
+        	  "confiance": "1"
             }, 
             {
               "name": "Victor TorNerae", 
-              "id": "595646831"
+              "id": "595646831",
+        	  "confiance": "2"
             }, 
             {
               "name": "Pierre Guillot", 
-              "id": "638013018"
+              "id": "638013018",
+        	  "confiance": "3"
             }, 
             {
-              "name": "Noémie Lemaire", 
-              "id": "1001384540"
+              "name": "Noï¿½mie Lemaire", 
+              "id": "1001384540",
+        	  "confiance": "1"
             }, 
             {
               "name": "Jean-Charles Marty", 
-              "id": "1027283956"
+              "id": "1027283956",
+        	  "confiance": "1"
             }, 
             {
               "name": "Alice Barbier", 
-              "id": "1275303494"
+              "id": "1275303494",
+        	  "confiance": "1"
             }, 
             {
               "name": "Adrien Lombard", 
-              "id": "1396212502"
+              "id": "1396212502",
+        	  "confiance": "1"
             }, 
             {
               "name": "Joffrey Moumou", 
-              "id": "1437115924"
+              "id": "1437115924",
+        	  "confiance": "1"
             }, 
             {
               "name": "Aymeric Assier", 
-              "id": "1442522522"
+              "id": "1442522522",
+        	  "confiance": "2"
             }, 
             {
               "name": "Rodolphe Lepigre", 
-              "id": "1486652152"
+              "id": "1486652152",
+        	  "confiance": "2"
             }, 
             {
               "name": "Claire Rollinger", 
-              "id": "1580750706"
+              "id": "1580750706",
+        	  "confiance": "1"
             }, 
             {
               "name": "Julien Plateau", 
-              "id": "1600524351"
+              "id": "1600524351",
+        	  "confiance": "3"
             }, 
             {
               "name": "Rudy Regazzoni", 
-              "id": "1622406859"
+              "id": "1622406859",
+        	  "confiance": "1"
             }, 
             {
               "name": "Eispri Stic", 
-              "id": "100002381065572"
+              "id": "100002381065572",
+        	  "confiance": "3"
             }, 
             {
-              "name": "François Colin", 
-              "id": "100002397990292"
+              "name": "Franï¿½ois Colin", 
+              "id": "100002397990292",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -3836,19 +4592,23 @@
           "data": [
             {
               "name": "Baptiste Court", 
-              "id": "1013648806"
+              "id": "1013648806",
+        	  "confiance": "3"
             }, 
             {
               "name": "Maud Forestier", 
-              "id": "1032232845"
+              "id": "1032232845",
+        	  "confiance": "2"
             }, 
             {
               "name": "Chach Avanzi", 
-              "id": "1147239577"
+              "id": "1147239577",
+        	  "confiance": "1"
             }, 
             {
               "name": "Laure Legrand", 
-              "id": "1191842232"
+              "id": "1191842232",
+        	  "confiance": "3"
             }
           ], 
           "paging": {
@@ -3862,43 +4622,53 @@
           "data": [
             {
               "name": "Bastien Morier", 
-              "id": "558826858"
+              "id": "558826858",
+        	  "confiance": "1"
             }, 
             {
               "name": "Flo Cavallo", 
-              "id": "565914717"
+              "id": "565914717",
+        	  "confiance": "1"
             }, 
             {
               "name": "Franck Jacob", 
-              "id": "580626585"
+              "id": "580626585",
+        	  "confiance": "1"
             }, 
             {
               "name": "Thomas Boyer", 
-              "id": "697614500"
+              "id": "697614500",
+        	  "confiance": "1"
             }, 
             {
               "name": "Alexandre Pugeat", 
-              "id": "772474610"
+              "id": "772474610",
+        	  "confiance": "3"
             }, 
             {
               "name": "Alexandre Vasseur", 
-              "id": "1143474855"
+              "id": "1143474855",
+        	  "confiance": "1"
             }, 
             {
               "name": "Jonathan Djo", 
-              "id": "1147213310"
+              "id": "1147213310",
+        	  "confiance": "3"
             }, 
             {
               "name": "Cyrille Dumortier", 
-              "id": "1149013101"
+              "id": "1149013101",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Alizée Jacquot", 
-              "id": "1278501526"
+              "name": "Alizï¿½e Jacquot", 
+              "id": "1278501526",
+        	  "confiance": "2"
             }, 
             {
               "name": "Sylvain Ouilleres", 
-              "id": "100000195521669"
+              "id": "100000195521669",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -3912,31 +4682,38 @@
           "data": [
             {
               "name": "Lulith Hichihara", 
-              "id": "690808183"
+              "id": "690808183",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Cédric Bosviel", 
-              "id": "1011271044"
+              "name": "Cï¿½dric Bosviel", 
+              "id": "1011271044",
+        	  "confiance": "1"
             }, 
             {
               "name": "Laure Legrand", 
-              "id": "1191842232"
+              "id": "1191842232",
+        	  "confiance": "1"
             }, 
             {
-              "name": "François Guiraud", 
-              "id": "1554286201"
+              "name": "Franï¿½ois Guiraud", 
+              "id": "1554286201",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Céline Bonnaure", 
-              "id": "1639900412"
+              "name": "Cï¿½line Bonnaure", 
+              "id": "1639900412",
+        	  "confiance": "2"
             }, 
             {
-              "name": "Gisèle Guiraud Tourillon", 
-              "id": "100000306661270"
+              "name": "Gisï¿½le Guiraud Tourillon", 
+              "id": "100000306661270",
+        	  "confiance": "1"
             }, 
             {
               "name": "Martin Bonnaure", 
-              "id": "100003720176250"
+              "id": "100003720176250",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -3956,39 +4733,48 @@
           "data": [
             {
               "name": "Pasquier Kevin", 
-              "id": "634129604"
+              "id": "634129604",
+        	  "confiance": "3"
             }, 
             {
-              "name": "Rémi Trouillon", 
-              "id": "1140174162"
+              "name": "Rï¿½mi Trouillon", 
+              "id": "1140174162",
+        	  "confiance": "1"
             }, 
             {
               "name": "Nicolas Paraz", 
-              "id": "1172680358"
+              "id": "1172680358",
+        	  "confiance": "1"
             }, 
             {
               "name": "Dom Antonacci", 
-              "id": "1199884223"
+              "id": "1199884223",
+        	  "confiance": "1"
             }, 
             {
               "name": "Alban Derrier", 
-              "id": "1241917975"
+              "id": "1241917975",
+        	  "confiance": "3"
             }, 
             {
               "name": "Romain Cartier-Lange", 
-              "id": "1353126619"
+              "id": "1353126619",
+        	  "confiance": "2"
             }, 
             {
               "name": "Joss Derrier", 
-              "id": "1529178882"
+              "id": "1529178882",
+        	  "confiance": "2"
             }, 
             {
               "name": "Anthony Muscara", 
-              "id": "1548909381"
+              "id": "1548909381",
+        	  "confiance": "1"
             }, 
             {
               "name": "Saint-Jean De-Maurienne", 
-              "id": "1707015888"
+              "id": "1707015888",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -4002,99 +4788,123 @@
           "data": [
             {
               "name": "Jalil Djabelkhir", 
-              "id": "526039085"
+              "id": "526039085",
+        	  "confiance": "1"
             }, 
             {
               "name": "Reuno La Paix Rot", 
-              "id": "545488741"
+              "id": "545488741",
+        	  "confiance": "2"
             }, 
             {
               "name": "Victor TorNerae", 
-              "id": "595646831"
+              "id": "595646831",
+        	  "confiance": "3"
             }, 
             {
               "name": "Pierre Guillot", 
-              "id": "638013018"
+              "id": "638013018",
+        	  "confiance": "1"
             }, 
             {
               "name": "Thibaut Bouly", 
-              "id": "677560667"
+              "id": "677560667",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Noémie Lemaire", 
-              "id": "1001384540"
+              "name": "Noï¿½mie Lemaire", 
+              "id": "1001384540",
+        	  "confiance": "2"
             }, 
             {
               "name": "Jean-Charles Marty", 
-              "id": "1027283956"
+              "id": "1027283956",
+        	  "confiance": "1"
             }, 
             {
               "name": "Antho Avy", 
-              "id": "1032562311"
+              "id": "1032562311",
+        	  "confiance": "1"
             }, 
             {
               "name": "Valentin Buisson", 
-              "id": "1188746465"
+              "id": "1188746465",
+        	  "confiance": "1"
             }, 
             {
               "name": "Jojo Felicity", 
-              "id": "1240560738"
+              "id": "1240560738",
+        	  "confiance": "1"
             }, 
             {
               "name": "Hugo Tanou Kiaven'outo", 
-              "id": "1270877364"
+              "id": "1270877364",
+        	  "confiance": "3"
             }, 
             {
               "name": "Alice Barbier", 
-              "id": "1275303494"
+              "id": "1275303494",
+        	  "confiance": "2"
             }, 
             {
               "name": "Jeremy Marois", 
-              "id": "1329818667"
+              "id": "1329818667",
+        	  "confiance": "1"
             }, 
             {
               "name": "Adrien Lombard", 
-              "id": "1396212502"
+              "id": "1396212502",
+        	  "confiance": "2"
             }, 
             {
               "name": "Jami Noux", 
-              "id": "1409420831"
+              "id": "1409420831",
+        	  "confiance": "1"
             }, 
             {
               "name": "Joffrey Moumou", 
-              "id": "1437115924"
+              "id": "1437115924",
+        	  "confiance": "2"
             }, 
             {
               "name": "Anthony Rey", 
-              "id": "1516030355"
+              "id": "1516030355",
+        	  "confiance": "3"
             }, 
             {
-              "name": "Rémi Geny-Dumont", 
-              "id": "1550315312"
+              "name": "Rï¿½mi Geny-Dumont", 
+              "id": "1550315312",
+        	  "confiance": "1"
             }, 
             {
               "name": "Claire Rollinger", 
-              "id": "1580750706"
+              "id": "1580750706",
+        	  "confiance": "1"
             }, 
             {
               "name": "Rudy Regazzoni", 
-              "id": "1622406859"
+              "id": "1622406859",
+        	  "confiance": "1"
             }, 
             {
               "name": "Giuseppe Cindolo", 
-              "id": "100001640748402"
+              "id": "100001640748402",
+        	  "confiance": "1"
             }, 
             {
               "name": "Henri Bensalouf", 
-              "id": "100002122118584"
+              "id": "100002122118584",
+        	  "confiance": "1"
             }, 
             {
               "name": "Eispri Stic", 
-              "id": "100002381065572"
+              "id": "100002381065572",
+        	  "confiance": "1"
             }, 
             {
               "name": "Miriam Labat", 
-              "id": "100003469768465"
+              "id": "100003469768465",
+        	  "confiance": "2"
             }
           ], 
           "paging": {
@@ -4108,11 +4918,13 @@
           "data": [
             {
               "name": "Marjorie Girard", 
-              "id": "1519964393"
+              "id": "1519964393",
+        	  "confiance": "1"
             }, 
             {
               "name": "Alex Bon", 
-              "id": "100003732697320"
+              "id": "100003732697320",
+        	  "confiance": "2"
             }
           ], 
           "paging": {
@@ -4125,60 +4937,74 @@
         "mutualfriends": {
           "data": [
             {
-              "name": "François Profizi", 
-              "id": "741389748"
+              "name": "Franï¿½ois Profizi", 
+              "id": "741389748",
+        	  "confiance": "1"
             }, 
             {
               "name": "Antho Avy", 
-              "id": "1032562311"
+              "id": "1032562311",
+        	  "confiance": "1"
             }, 
             {
               "name": "Sebastien Tolron", 
-              "id": "1149983596"
+              "id": "1149983596",
+        	  "confiance": "2"
             }, 
             {
               "name": "Valentin Buisson", 
-              "id": "1188746465"
+              "id": "1188746465",
+        	  "confiance": "1"
             }, 
             {
               "name": "Zio Samuele", 
-              "id": "1229878777"
+              "id": "1229878777",
+        	  "confiance": "1"
             }, 
             {
               "name": "Jojo Felicity", 
-              "id": "1240560738"
+              "id": "1240560738",
+        	  "confiance": "1"
             }, 
             {
               "name": "Hugo Tanou Kiaven'outo", 
-              "id": "1270877364"
+              "id": "1270877364",
+        	  "confiance": "2"
             }, 
             {
               "name": "Jeremy Marois", 
-              "id": "1329818667"
+              "id": "1329818667",
+        	  "confiance": "1"
             }, 
             {
               "name": "Jami Noux", 
-              "id": "1409420831"
+              "id": "1409420831",
+        	  "confiance": "2"
             }, 
             {
               "name": "Yohann Berthon", 
-              "id": "1449220723"
+              "id": "1449220723",
+        	  "confiance": "3"
             }, 
             {
               "name": "Anthony Rey", 
-              "id": "1516030355"
+              "id": "1516030355",
+        	  "confiance": "2"
             }, 
             {
-              "name": "Rémi Geny-Dumont", 
-              "id": "1550315312"
+              "name": "Rï¿½mi Geny-Dumont", 
+              "id": "1550315312",
+        	  "confiance": "1"
             }, 
             {
               "name": "Raphael Montouchet", 
-              "id": "100001368081821"
+              "id": "100001368081821",
+        	  "confiance": "1"
             }, 
             {
               "name": "Eispri Stic", 
-              "id": "100002381065572"
+              "id": "100002381065572",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -4192,23 +5018,28 @@
           "data": [
             {
               "name": "Antho Avy", 
-              "id": "1032562311"
+              "id": "1032562311",
+        	  "confiance": "1"
             }, 
             {
               "name": "Valentin Buisson", 
-              "id": "1188746465"
+              "id": "1188746465",
+        	  "confiance": "1"
             }, 
             {
               "name": "Jeremy Marois", 
-              "id": "1329818667"
+              "id": "1329818667",
+        	  "confiance": "1"
             }, 
             {
               "name": "Yohann Berthon", 
-              "id": "1449220723"
+              "id": "1449220723",
+        	  "confiance": "3"
             }, 
             {
-              "name": "Rémi Geny-Dumont", 
-              "id": "1550315312"
+              "name": "Rï¿½mi Geny-Dumont", 
+              "id": "1550315312",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -4222,59 +5053,73 @@
           "data": [
             {
               "name": "Pierre Guillot", 
-              "id": "638013018"
+              "id": "638013018",
+        	  "confiance": "1"
             }, 
             {
               "name": "Thibaut Bouly", 
-              "id": "677560667"
+              "id": "677560667",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Noémie Lemaire", 
-              "id": "1001384540"
+              "name": "Noï¿½mie Lemaire", 
+              "id": "1001384540",
+        	  "confiance": "1"
             }, 
             {
               "name": "Jean-Charles Marty", 
-              "id": "1027283956"
+              "id": "1027283956",
+        	  "confiance": "1"
             }, 
             {
               "name": "Alice Barbier", 
-              "id": "1275303494"
+              "id": "1275303494",
+        	  "confiance": "2"
             }, 
             {
               "name": "Jeremy Marois", 
-              "id": "1329818667"
+              "id": "1329818667",
+        	  "confiance": "1"
             }, 
             {
               "name": "Adrien Lombard", 
-              "id": "1396212502"
+              "id": "1396212502",
+        	  "confiance": "1"
             }, 
             {
               "name": "Joffrey Moumou", 
-              "id": "1437115924"
+              "id": "1437115924",
+        	  "confiance": "1"
             }, 
             {
               "name": "Aymeric Assier", 
-              "id": "1442522522"
+              "id": "1442522522",
+        	  "confiance": "2"
             }, 
             {
               "name": "Claire Rollinger", 
-              "id": "1580750706"
+              "id": "1580750706",
+        	  "confiance": "2"
             }, 
             {
               "name": "Julien Plateau", 
-              "id": "1600524351"
+              "id": "1600524351",
+        	  "confiance": "3"
             }, 
             {
               "name": "Rudy Regazzoni", 
-              "id": "1622406859"
+              "id": "1622406859",
+        	  "confiance": "1"
             }, 
             {
               "name": "Raphael Montouchet", 
-              "id": "100001368081821"
+              "id": "100001368081821",
+        	  "confiance": "2"
             }, 
             {
-              "name": "François Colin", 
-              "id": "100002397990292"
+              "name": "Franï¿½ois Colin", 
+              "id": "100002397990292",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -4288,75 +5133,93 @@
           "data": [
             {
               "name": "Victor TorNerae", 
-              "id": "595646831"
+              "id": "595646831",
+        	  "confiance": "2"
             }, 
             {
               "name": "Pierre Guillot", 
-              "id": "638013018"
+              "id": "638013018",
+        	  "confiance": "3"
             }, 
             {
               "name": "Thibaut Bouly", 
-              "id": "677560667"
+              "id": "677560667",
+        	  "confiance": "2"
             }, 
             {
-              "name": "Noémie Lemaire", 
-              "id": "1001384540"
+              "name": "Noï¿½mie Lemaire", 
+              "id": "1001384540",
+        	  "confiance": "1"
             }, 
             {
               "name": "Jean-Charles Marty", 
-              "id": "1027283956"
+              "id": "1027283956",
+        	  "confiance": "1"
             }, 
             {
               "name": "Valentin Buisson", 
-              "id": "1188746465"
+              "id": "1188746465",
+        	  "confiance": "1"
             }, 
             {
               "name": "Adrien Lombard", 
-              "id": "1396212502"
+              "id": "1396212502",
+        	  "confiance": "1"
             }, 
             {
               "name": "Joffrey Moumou", 
-              "id": "1437115924"
+              "id": "1437115924",
+        	  "confiance": "2"
             }, 
             {
               "name": "Aymeric Assier", 
-              "id": "1442522522"
+              "id": "1442522522",
+        	  "confiance": "2"
             }, 
             {
               "name": "Rodolphe Lepigre", 
-              "id": "1486652152"
+              "id": "1486652152",
+        	  "confiance": "2"
             }, 
             {
               "name": "Anthony Rey", 
-              "id": "1516030355"
+              "id": "1516030355",
+        	  "confiance": "1"
             }, 
             {
               "name": "Claire Rollinger", 
-              "id": "1580750706"
+              "id": "1580750706",
+        	  "confiance": "1"
             }, 
             {
               "name": "Julien Plateau", 
-              "id": "1600524351"
+              "id": "1600524351",
+        	  "confiance": "3"
             }, 
             {
               "name": "Rudy Regazzoni", 
-              "id": "1622406859"
+              "id": "1622406859",
+        	  "confiance": "1"
             }, 
             {
               "name": "Lionel Richter", 
-              "id": "100000486106660"
+              "id": "100000486106660",
+        	  "confiance": "1"
             }, 
             {
               "name": "Raphael Montouchet", 
-              "id": "100001368081821"
+              "id": "100001368081821",
+        	  "confiance": "3"
             }, 
             {
               "name": "Giuseppe Cindolo", 
-              "id": "100001640748402"
+              "id": "100001640748402",
+        	  "confiance": "1"
             }, 
             {
-              "name": "François Colin", 
-              "id": "100002397990292"
+              "name": "Franï¿½ois Colin", 
+              "id": "100002397990292",
+        	  "confiance": "2"
             }
           ], 
           "paging": {
@@ -4370,135 +5233,168 @@
           "data": [
             {
               "name": "Jalil Djabelkhir", 
-              "id": "526039085"
+              "id": "526039085",
+        	  "confiance": "2"
             }, 
             {
               "name": "Reuno La Paix Rot", 
-              "id": "545488741"
+              "id": "545488741",
+        	  "confiance": "1"
             }, 
             {
               "name": "Victor TorNerae", 
-              "id": "595646831"
+              "id": "595646831",
+        	  "confiance": "1"
             }, 
             {
               "name": "Pierre Guillot", 
-              "id": "638013018"
+              "id": "638013018",
+        	  "confiance": "1"
             }, 
             {
               "name": "Thibaut Bouly", 
-              "id": "677560667"
+              "id": "677560667",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Noémie Lemaire", 
-              "id": "1001384540"
+              "name": "Noï¿½mie Lemaire", 
+              "id": "1001384540",
+        	  "confiance": "1"
             }, 
             {
               "name": "Baptiste Court", 
-              "id": "1013648806"
+              "id": "1013648806",
+        	  "confiance": "2"
             }, 
             {
               "name": "Jean-Charles Marty", 
-              "id": "1027283956"
+              "id": "1027283956",
+        	  "confiance": "1"
             }, 
             {
               "name": "Maud Forestier", 
-              "id": "1032232845"
+              "id": "1032232845",
+        	  "confiance": "3"
             }, 
             {
               "name": "Romane Metral", 
-              "id": "1035069400"
+              "id": "1035069400",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Rémi Trouillon", 
-              "id": "1140174162"
+              "name": "Rï¿½mi Trouillon", 
+              "id": "1140174162",
+        	  "confiance": "1"
             }, 
             {
               "name": "Jessica Gauthier", 
-              "id": "1202407944"
+              "id": "1202407944",
+        	  "confiance": "3"
             }, 
             {
               "name": "Alice Barbier", 
-              "id": "1275303494"
+              "id": "1275303494",
+        	  "confiance": "2"
             }, 
             {
               "name": "Joris Sammassimo", 
-              "id": "1361972097"
+              "id": "1361972097",
+        	  "confiance": "2"
             }, 
             {
               "name": "Adrien Lombard", 
-              "id": "1396212502"
+              "id": "1396212502",
+        	  "confiance": "1"
             }, 
             {
               "name": "Joffrey Moumou", 
-              "id": "1437115924"
+              "id": "1437115924",
+        	  "confiance": "1"
             }, 
             {
               "name": "Aymeric Assier", 
-              "id": "1442522522"
+              "id": "1442522522",
+        	  "confiance": "2"
             }, 
             {
               "name": "Rodolphe Lepigre", 
-              "id": "1486652152"
+              "id": "1486652152",
+        	  "confiance": "3"
             }, 
             {
               "name": "Anthony Rey", 
-              "id": "1516030355"
+              "id": "1516030355",
+        	  "confiance": "1"
             }, 
             {
               "name": "Marjorie Girard", 
-              "id": "1519964393"
+              "id": "1519964393",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Cécile Giraud", 
-              "id": "1568672808"
+              "name": "Cï¿½cile Giraud", 
+              "id": "1568672808",
+        	  "confiance": "3"
             }, 
             {
               "name": "Claire Rollinger", 
-              "id": "1580750706"
+              "id": "1580750706",
+        	  "confiance": "3"
             }, 
             {
               "name": "Julien Plateau", 
-              "id": "1600524351"
+              "id": "1600524351",
+        	  "confiance": "2"
             }, 
             {
               "name": "Rudy Regazzoni", 
-              "id": "1622406859"
+              "id": "1622406859",
+        	  "confiance": "1"
             }, 
             {
               "name": "Saint-Jean De-Maurienne", 
-              "id": "1707015888"
+              "id": "1707015888",
+        	  "confiance": "1"
             }, 
             {
               "name": "Morgane Vergnon", 
-              "id": "1708432329"
+              "id": "1708432329",
+        	  "confiance": "1"
             }, 
             {
               "name": "Aurelien Chaix", 
-              "id": "100000151767666"
+              "id": "100000151767666",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Valène Salavin", 
-              "id": "100000224883542"
+              "name": "Valï¿½ne Salavin", 
+              "id": "100000224883542",
+        	  "confiance": "1"
             }, 
             {
               "name": "Lionel Richter", 
-              "id": "100000486106660"
+              "id": "100000486106660",
+        	  "confiance": "1"
             }, 
             {
               "name": "Henri Bensalouf", 
-              "id": "100002122118584"
+              "id": "100002122118584",
+        	  "confiance": "1"
             }, 
             {
               "name": "Eispri Stic", 
-              "id": "100002381065572"
+              "id": "100002381065572",
+        	  "confiance": "1"
             }, 
             {
               "name": "Miriam Labat", 
-              "id": "100003469768465"
+              "id": "100003469768465",
+        	  "confiance": "1"
             }, 
             {
               "name": "Mat Moulin", 
-              "id": "100006295987646"
+              "id": "100006295987646",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -4512,11 +5408,13 @@
           "data": [
             {
               "name": "Aurelien Chaix", 
-              "id": "100000151767666"
+              "id": "100000151767666",
+        	  "confiance": "2"
             }, 
             {
-              "name": "Cécile Gavot", 
-              "id": "100003594767197"
+              "name": "Cï¿½cile Gavot", 
+              "id": "100003594767197",
+        	  "confiance": "3"
             }
           ], 
           "paging": {
@@ -4530,15 +5428,18 @@
           "data": [
             {
               "name": "Romane Metral", 
-              "id": "1035069400"
+              "id": "1035069400",
+        	 "confiance": "1"
             }, 
             {
               "name": "Raphael Montouchet", 
-              "id": "100001368081821"
+              "id": "100001368081821",
+        	  "confiance": "1"
             }, 
             {
-              "name": "François Colin", 
-              "id": "100002397990292"
+              "name": "Franï¿½ois Colin", 
+              "id": "100002397990292",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -4552,39 +5453,48 @@
           "data": [
             {
               "name": "Romane Metral", 
-              "id": "1035069400"
+              "id": "1035069400",
+        	  "confiance": "3"
             }, 
             {
               "name": "Jessica Gauthier", 
-              "id": "1202407944"
+              "id": "1202407944",
+        	  "confiance": "2"
             }, 
             {
               "name": "Marjorie Girard", 
-              "id": "1519964393"
+              "id": "1519964393",
+        	  "confiance": "3"
             }, 
             {
               "name": "Bertrand Rollet", 
-              "id": "1784303529"
+              "id": "1784303529",
+        	  "confiance": "1"
             }, 
             {
               "name": "Aurelien Chaix", 
-              "id": "100000151767666"
+              "id": "100000151767666",
+        	  "confiance": "2"
             }, 
             {
-              "name": "Valène Salavin", 
-              "id": "100000224883542"
+              "name": "Valï¿½ne Salavin", 
+              "id": "100000224883542",
+        	  "confiance": "3"
             }, 
             {
               "name": "Kryss Salavin", 
-              "id": "100000244146583"
+              "id": "100000244146583",
+        	  "confiance": "1"
             }, 
             {
               "name": "Ariane Castellan", 
-              "id": "100003404233132"
+              "id": "100003404233132",
+        	  "confiance": "1"
             }, 
             {
               "name": "Mat Moulin", 
-              "id": "100006295987646"
+              "id": "100006295987646",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -4597,24 +5507,29 @@
         "mutualfriends": {
           "data": [
             {
-              "name": "Cédric Bosviel", 
-              "id": "1011271044"
+              "name": "Cï¿½dric Bosviel", 
+              "id": "1011271044",
+        	  "confiance": "3"
             }, 
             {
-              "name": "François Guiraud", 
-              "id": "1554286201"
+              "name": "Franï¿½ois Guiraud", 
+              "id": "1554286201",
+        	  "confiance": "2"
             }, 
             {
-              "name": "Céline Bonnaure", 
-              "id": "1639900412"
+              "name": "Cï¿½line Bonnaure", 
+              "id": "1639900412",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Gisèle Guiraud Tourillon", 
-              "id": "100000306661270"
+              "name": "Gisï¿½le Guiraud Tourillon", 
+              "id": "100000306661270",
+        	  "confiance": "1"
             }, 
             {
               "name": "Laura Tourillon", 
-              "id": "100000741533418"
+              "id": "100000741533418",
+        	  "confiance": "3"
             }
           ], 
           "paging": {
@@ -4628,15 +5543,18 @@
           "data": [
             {
               "name": "Edwige Decomble", 
-              "id": "1366740265"
+              "id": "1366740265",
+        	  "confiance": "1"
             }, 
             {
               "name": "Marjorie Girard", 
-              "id": "1519964393"
+              "id": "1519964393",
+        	  "confiance": "1"
             }, 
             {
               "name": "Anthony Girard", 
-              "id": "100001479486182"
+              "id": "100001479486182",
+        	  "confiance": "1"
             }
           ], 
           "paging": {
@@ -4650,11 +5568,13 @@
           "data": [
             {
               "name": "Mickael Magnin", 
-              "id": "1492743445"
+              "id": "1492743445",
+        	  "confiance": "1"
             }, 
             {
               "name": "Saint-Jean De-Maurienne", 
-              "id": "1707015888"
+              "id": "1707015888",
+        	  "confiance": "3"
             }
           ], 
           "paging": {
@@ -4668,35 +5588,43 @@
           "data": [
             {
               "name": "Romane Metral", 
-              "id": "1035069400"
+              "id": "1035069400",
+        	  "confiance": "3"
             }, 
             {
               "name": "Marjorie Girard", 
-              "id": "1519964393"
+              "id": "1519964393",
+        	  "confiance": "1"
             }, 
             {
               "name": "Morgane Vergnon", 
-              "id": "1708432329"
+              "id": "1708432329",
+        	  "confiance": "1"
             }, 
             {
               "name": "Aurelien Chaix", 
-              "id": "100000151767666"
+              "id": "100000151767666",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Valène Salavin", 
-              "id": "100000224883542"
+              "name": "Valï¿½ne Salavin", 
+              "id": "100000224883542",
+        	  "confiance": "1"
             }, 
             {
               "name": "Kryss Salavin", 
-              "id": "100000244146583"
+              "id": "100000244146583",
+        	  "confiance": "3"
             }, 
             {
-              "name": "François Colin", 
-              "id": "100002397990292"
+              "name": "Franï¿½ois Colin", 
+              "id": "100002397990292",
+        	  "confiance": "1"
             }, 
             {
-              "name": "Cécile Gavot", 
-              "id": "100003594767197"
+              "name": "Cï¿½cile Gavot", 
+              "id": "100003594767197",
+        	  "confiance": "1" 
             }
           ], 
           "paging": {
