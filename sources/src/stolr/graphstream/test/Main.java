@@ -5,6 +5,7 @@ package stolr.graphstream.test;
 
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Scanner;
 
 import org.graphstream.graph.Graph;
 import org.graphstream.graph.implementations.SingleGraph;
@@ -33,12 +34,10 @@ public class Main {
 	private static Graph graph;
 	private static Viewer viewer;
 	private static LinLog layout;
-	private static double a = 0;
-	private static double r = -1.3;
-	private static double force = 3;
+
 	private static ProxyPipe fromViewer;
-	protected static String styleSheet ="edge.edgeRumeur { fill-color: rgba(255,0,0,1.0); }" ; 
-	private static double cutThreshold = 1;	
+
+
 	
 	public static void main(String[] args) {
 	
@@ -59,64 +58,21 @@ public class Main {
 		userGraph.setFriends(listUser);
 		ParserFileMutual.getUserMutual(userGraph,fichierMutual);
 	
-		
-		graph = new SingleGraph("Graphe de test");
-		viewer = graph.display(false);		// 1
-		graph = GraphFacebook.getGraph(userGraph,userGraph.getFriends());	
-		
-		graph.addAttribute("ui.antialias");			
-		graph.addAttribute("ui.stylesheet", styleSheet);
-		layout = new LinLog(false);		// 2
-		layout.addSink(graph);			
-		graph.addSink(layout);	
-		fromViewer = viewer.newThreadProxyOnGraphicGraph();	// 1
-		fromViewer.addSink(graph);		
-		layout.configure(a, r, true, force);	
-
-		
-		// Creation d'un nouveau Thread pour la propagation d'une rumeur
-		
-		ColorationThread tr1 = new ColorationThread();
-		tr1.run(graph,userGraph);
-		
-		// thread qui colorie le graph.
-		
-		while(! graph.hasAttribute("ui.viewClosed")) {
-			fromViewer.pump();
-			layout.compute();
-			showCommunities();
-		
-		}
-		
-		
-				
-	
-		
-	}
-	
-	public static void showCommunities() {					
-		int nEdges = graph.getEdgeCount();
-		double averageDist = 0;
-		double edgesDist[] = new double[nEdges];
-		
-		for(int i=0; i<nEdges; i++) {					
-			Edge edge = graph.getEdge(i);
-			edgesDist[i] = GraphPosLengthUtils.edgeLength(edge);	
-			averageDist += edgesDist[i];				
-		}
-		
-		averageDist /= nEdges;						
-		for(int i=0; i<nEdges; i++) {					
-			Edge edge = graph.getEdge(i);
 			
-			if(edgesDist[i] > averageDist * cutThreshold) {		
-				edge.addAttribute("ui.class", "cut");		
-				edge.addAttribute("cut");
-			} else {
-				edge.removeAttribute("ui.class");		
-				edge.removeAttribute("cut");				
-			}
-		}
+		//new .run();
+		
+	    //treadAffichage.run();
+		
+		Runnable affThread = new AffichageThread(userGraph,graph);
+		affThread.run();
+	
+	System.out.println("lollollol");
+		int cRumeur = 12;
+		
+		//Rumeur r = new Rumeur(NomRumeur,cRumeur);
+	
+	
+	
 	}
 	
 	
