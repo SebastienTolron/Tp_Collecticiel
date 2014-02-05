@@ -30,22 +30,18 @@ public class GraphFacebook {
 		for (i = 0; i < listUser.size(); i++) {
 			int j = 0;
 
-			ArrayList<UserFacebook> mutualF = listUser.get(i)
+			ArrayList<MutualFriends> mutualF = listUser.get(i)
 					.getMutualFriends();
 
 			for (j = 0; j < listUser.get(i).getMutualFriends().size(); j++) {
-				if (graph.getEdge(listUser.get(i).getMutualFriends().get(j)
-						.getId()
-						+ "+" + listUser.get(i).getId()) != null) {
+				if (graph.getEdge(mutualF.get(j).getUserF().getId() + "+"
+						+ listUser.get(i).getId()) == null) {
 
-				} else {
-
-					Edge temp2 = graph.addEdge(
-							listUser.get(i).getId()
-									+ "+"
-									+ listUser.get(i).getMutualFriends().get(j)
-											.getId(), listUser.get(i).getId(),
-							listUser.get(i).getMutualFriends().get(j).getId());
+					Edge temp2 = graph.addEdge(listUser.get(i).getId() + "+"
+							+ mutualF.get(j).getUserF().getId(), listUser
+							.get(i).getId(), mutualF.get(j).getUserF().getId());
+					
+					temp2.addAttribute("confiance", listUser.get(i).getConfiance()+"+"+mutualF.get(j).getUserF().getConfiance());
 
 				}
 

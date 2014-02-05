@@ -6,19 +6,19 @@ public class UserFacebook {
 	
 	private String id ;
 	private String Name ;
-	private ArrayList<UserFacebook> MutualFriends;
+	private ArrayList<MutualFriends> mutualF;
 	private ArrayList<UserFacebook> Friends;
 	private String confiance;
 	
 	
 
-	public UserFacebook(String id, String name, String conf) {
+	public UserFacebook(String id, String name, String confiance) {
 		super();
 		this.id = id;
+		this.setConfiance(confiance);
 		Name = name;
-		MutualFriends = new ArrayList<UserFacebook>() ;
+		mutualF = new ArrayList<MutualFriends>() ;
 		Friends = new ArrayList<UserFacebook>() ;
-		confiance = conf;
 	}
 	
 	
@@ -39,23 +39,15 @@ public class UserFacebook {
 	public void setName(String name) {
 		Name = name;
 	}
-	public ArrayList<UserFacebook> getMutualFriends() {
-		return MutualFriends;
+	public ArrayList<MutualFriends> getMutualFriends() {
+		return mutualF;
 	}
-	public void setMutualFriends(ArrayList<UserFacebook> mutualFriends) {
-		MutualFriends = mutualFriends;
+	public void setMutualFriends(ArrayList<MutualFriends> mutualFriends) {
+		mutualF = mutualFriends;
 	}
 	
 	
-	public String getConfiance() {
-		return confiance;
-	}
-
-
-	public void setConfiance(String confiance) {
-		this.confiance = confiance;
-	}
-
+	
 
 	public ArrayList<UserFacebook> getFriends() {
 		return Friends;
@@ -77,6 +69,16 @@ public class UserFacebook {
 		}
 		
 		return ureturn;
+	}
+
+
+	public String getConfiance() {
+		return confiance;
+	}
+
+
+	public void setConfiance(String confiance) {
+		this.confiance = confiance;
 	}
 	
 }
