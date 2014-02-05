@@ -60,9 +60,13 @@ public class ParserFileMutual {
 							// AU fait , il faut qu'on lie la liste d'ami avec le user							
 							UserFacebook uGeneral = UserF.getById(id);
 							UserFacebook uEnCommun = UserF.getById(idNew);
+							ligne = br.readLine();
+							pIndexI2 = ligne.indexOf(":");
+							lIndexI2 = ligne.lastIndexOf("\"");
+							String confiance = ligne.substring(pIndexI2+3, lIndexI2);
 							
-												
-							uGeneral.getMutualFriends().add(uEnCommun);
+							MutualFriends mf = new MutualFriends(uEnCommun,"e"); 
+							uGeneral.getMutualFriends().add(mf);
 						
 						}
 						
