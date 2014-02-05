@@ -12,11 +12,11 @@ class ColorationThread extends Thread {
 	public void run(Graph graph, Node sBegin, String tabNode) {
 
 		
-		tabNode+=  ";;;"+sBegin.getId();
+		tabNode = tabNode +";"+sBegin.getId();
 		
 		//System.out.println("Salut");
 		try {
-			this.sleep(5000);
+			this.sleep(100);
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -26,6 +26,8 @@ class ColorationThread extends Thread {
 		
 
 		System.out.println(" Node en cours " + sBegin.getId());
+		
+		
 		while (nodes.hasNext()) {
 			i++;
 			Node ntemp= nodes.next();
@@ -58,9 +60,10 @@ class ColorationThread extends Thread {
 			if (!(tabNode.contains(ntemp2.getId())))
 			{
 			ColorationThread trc = new ColorationThread();
-			trc.run(graph, nodes.next(),tabNode);
+			trc.run(graph,ntemp2,tabNode);
 			}
 		}
+	
 
 	}
 

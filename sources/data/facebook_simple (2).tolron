@@ -1,0 +1,512 @@
+
+      {
+        "name": "Jalil Djabelkhir", 
+        "id": "526039085",
+        "confiance": "2"
+      }, 
+      {
+        "name": "Reuno La Paix Rot", 
+        "id": "545488741",
+        "confiance": "2"
+      }, 
+      {
+        "name": "Bastien Morier", 
+        "id": "558826858",
+        "confiance": "1"
+      }, 
+      {
+        "name": "Flo Cavallo", 
+        "id": "565914717",
+        "confiance": "2"
+      }, 
+      {
+        "name": "Franck Jacob", 
+        "id": "580626585",
+        "confiance": "2"
+      }, 
+      {
+        "name": "Victor TorNerae", 
+        "id": "595646831",
+        "confiance": "2"
+      }, 
+      {
+        "name": "Pasquier Kevin", 
+        "id": "634129604",
+        "confiance": "3"
+      }, 
+      {
+        "name": "Pierre Guillot", 
+        "id": "638013018",
+        "confiance": "2"
+      }, 
+      {
+        "name": "Thibaut Bouly", 
+        "id": "677560667",
+        "confiance": "3"
+      }, 
+      {
+        "name": "Lulith Hichihara", 
+        "id": "690808183",
+        "confiance": "1"
+      }, 
+      {
+        "name": "Dreyer Pauline", 
+        "id": "695903679",
+        "confiance": "3"
+      }, 
+      {
+        "name": "Thomas Boyer", 
+        "id": "697614500",
+        "confiance": "2"
+      }, 
+      {
+        "name": "Karine Girard", 
+        "id": "725217994",
+        "confiance": "2"
+      }, 
+      {
+        "name": "François Profizi", 
+        "id": "741389748",
+        "confiance": "3"
+      }, 
+      {
+        "name": "Alexandre Pugeat", 
+        "id": "772474610",
+        "confiance": "3"
+      }, 
+      {
+        "name": "Noémie Lemaire", 
+        "id": "1001384540",
+        "confiance": "2"
+      }, 
+      {
+        "name": "Cédric Bosviel", 
+        "id": "1011271044",
+        "confiance": "1"
+      }, 
+      {
+        "name": "Baptiste Court", 
+        "id": "1013648806",
+        "confiance": "3"
+      }, 
+      {
+        "name": "Jean-Charles Marty", 
+        "id": "1027283956",
+        "confiance": "1"
+      }, 
+      {
+        "name": "Maud Forestier", 
+        "id": "1032232845",
+        "confiance": "1"
+      }, 
+      {
+        "name": "Antho Avy", 
+        "id": "1032562311",
+        "confiance": "2"
+      }, 
+      {
+        "name": "Romane Metral", 
+        "id": "1035069400",
+        "confiance": "1"
+      }, 
+      {
+        "name": "Fabien Ardiri", 
+        "id": "1066810712",
+        "confiance": "2"
+      }, 
+      {
+        "name": "Rémi Trouillon", 
+        "id": "1140174162",
+        "confiance": "2"
+      }, 
+      {
+        "name": "Alexandre Vasseur", 
+        "id": "1143474855",
+        "confiance": "2"
+      }, 
+      {
+        "name": "Jonathan Djo", 
+        "id": "1147213310",
+        "confiance": "1"
+      }, 
+      {
+        "name": "Chach Avanzi", 
+        "id": "1147239577",
+        "confiance": "2"
+      }, 
+      {
+        "name": "Cyrille Dumortier", 
+        "id": "1149013101",
+        "confiance": "2"
+      }, 
+      {
+        "name": "Sebastien Tolron", 
+        "id": "1149983596",
+        "confiance": "1"
+      }, 
+      {
+        "name": "David Thomas", 
+        "id": "1162124692",
+        "confiance": "2"
+      }, 
+      {
+        "name": "Nicolas Paraz", 
+        "id": "1172680358",
+        "confiance": "2"
+      }, 
+      {
+        "name": "Valentin Buisson", 
+        "id": "1188746465",
+        "confiance": "3"
+      }, 
+      {
+        "name": "Laure Legrand", 
+        "id": "1191842232",
+        "confiance": "2"
+      }, 
+      {
+        "name": "Dom Antonacci", 
+        "id": "1199884223",
+        "confiance": "3"
+      }, 
+      {
+        "name": "Jessica Gauthier", 
+        "id": "1202407944",
+        "confiance": "2"
+      }, 
+      {
+        "name": "Zio Samuele", 
+        "id": "1229878777",
+        "confiance": "3"
+      }, 
+      {
+        "name": "David Escofet", 
+        "id": "1231880021",
+        "confiance": "1"
+      }, 
+      {
+        "name": "Jojo Felicity", 
+        "id": "1240560738",
+        "confiance": "3"
+      }, 
+      {
+        "name": "Alban Derrier", 
+        "id": "1241917975",
+        "confiance": "3"
+      }, 
+      {
+        "name": "Hugo Tanou Kiaven'outo", 
+        "id": "1270877364",
+        "confiance": "3"
+      }, 
+      {
+        "name": "Camille Olive", 
+        "id": "1272373182",
+        "confiance": "1"
+      }, 
+      {
+        "name": "Alice Barbier", 
+        "id": "1275303494",
+        "confiance": "3"
+      }, 
+      {
+        "name": "Alizée Jacquot", 
+        "id": "1278501526",
+        "confiance": "2"
+      }, 
+      {
+        "name": "Jeremy Marois", 
+        "id": "1329818667",
+        "confiance": "1"
+      }, 
+      {
+        "name": "Romain Cartier-Lange", 
+        "id": "1353126619",
+        "confiance": "3"
+      }, 
+      {
+        "name": "Joris Sammassimo", 
+        "id": "1361972097",
+        "confiance": "3"
+      }, 
+      {
+        "name": "Edwige Decomble", 
+        "id": "1366740265",
+        "confiance": "3"
+      }, 
+      {
+        "name": "Adrien Lombard", 
+        "id": "1396212502",
+        "confiance": "2"
+      }, 
+      {
+        "name": "Jami Noux", 
+        "id": "1409420831",
+        "confiance": "1"
+      }, 
+      {
+        "name": "Joffrey Moumou", 
+        "id": "1437115924",
+        "confiance": "1"
+      }, 
+      {
+        "name": "Aymeric Assier", 
+        "id": "1442522522",
+        "confiance": "2"
+      }, 
+      {
+        "name": "Yohann Berthon", 
+        "id": "1449220723",
+        "confiance": "2"
+      }, 
+      {
+        "name": "Rodolphe Lepigre", 
+        "id": "1486652152",
+        "confiance": "3"
+      }, 
+      {
+        "name": "Mickael Magnin", 
+        "id": "1492743445",
+        "confiance": "1"
+      }, 
+      {
+        "name": "Anthony Rey", 
+        "id": "1516030355",
+        "confiance": "3"
+      }, 
+      {
+        "name": "Marjorie Girard", 
+        "id": "1519964393",
+        "confiance": "1"
+      }, 
+      {
+        "name": "Joss Derrier", 
+        "id": "1529178882",
+        "confiance": "3"
+      }, 
+      {
+        "name": "Anthony Muscara", 
+        "id": "1548909381",
+        "confiance": "2"
+      }, 
+      {
+        "name": "Rémi Geny-Dumont", 
+        "id": "1550315312",
+        "confiance": "2"
+      }, 
+      {
+        "name": "François Guiraud", 
+        "id": "1554286201",
+        "confiance": "1"
+      }, 
+      {
+        "name": "Cedric Toxirina Tigrou", 
+        "id": "1559928323",
+        "confiance": "1"
+      }, 
+      {
+        "name": "Cécile Giraud", 
+        "id": "1568672808",
+        "confiance": "2"
+      }, 
+      {
+        "name": "Claire Rollinger", 
+        "id": "1580750706",
+        "confiance": "1"
+      }, 
+      {
+        "name": "Raphaël Governali", 
+        "id": "1582518800",
+        "confiance": "2"
+      }, 
+      {
+        "name": "Julien Plateau", 
+        "id": "1600524351",
+        "confiance": "2"
+      }, 
+      {
+        "name": "Therry Buttard", 
+        "id": "1601614965",
+        "confiance": "3"
+      }, 
+      {
+        "name": "Rudy Regazzoni", 
+        "id": "1622406859",
+        "confiance": "2"
+      }, 
+      {
+        "name": "Aurél Grézille", 
+        "id": "1626845267",
+        "confiance": "2"
+      }, 
+      {
+        "name": "Céline Bonnaure", 
+        "id": "1639900412",
+        "confiance": "1"
+      }, 
+      {
+        "name": "Ludovic Donteville", 
+        "id": "1645430547",
+        "confiance": "1"
+      }, 
+      {
+        "name": "Jimmy Lesage", 
+        "id": "1651008159",
+        "confiance": "3"
+      }, 
+      {
+        "name": "Saint-Jean De-Maurienne", 
+        "id": "1707015888",
+        "confiance": "3"
+      }, 
+      {
+        "name": "Morgane Vergnon", 
+        "id": "1708432329",
+        "confiance": "3"
+      }, 
+      {
+        "name": "Bertrand Rollet", 
+        "id": "1784303529",
+        "confiance": "2"
+      }, 
+      {
+        "name": "Hugues Les Marteaux Pikeurs", 
+        "id": "100000026246861",
+        "confiance": "1"
+      }, 
+      {
+        "name": "Aurelien Chaix", 
+        "id": "100000151767666",
+        "confiance": "1"
+      }, 
+      {
+        "name": "Sylvain Ouilleres", 
+        "id": "100000195521669",
+        "confiance": "3"
+      }, 
+      {
+        "name": "Valène Salavin", 
+        "id": "100000224883542",
+        "confiance": "1"
+      }, 
+      {
+        "name": "Kryss Salavin", 
+        "id": "100000244146583",
+        "confiance": "1"
+      }, 
+      {
+        "name": "Gisèle Guiraud Tourillon", 
+        "id": "100000306661270",
+        "confiance": "1"
+      }, 
+      {
+        "name": "Lionel Richter", 
+        "id": "100000486106660",
+        "confiance": "3"
+      }, 
+      {
+        "name": "Boris Forestier", 
+        "id": "100000528423411",
+        "confiance": "2"
+      }, 
+      {
+        "name": "Matthieu Perrin", 
+        "id": "100000646034740",
+        "confiance": "2"
+      }, 
+      {
+        "name": "Laura Tourillon", 
+        "id": "100000741533418",
+        "confiance": "1"
+      }, 
+      {
+        "name": "Aurélie Roulier", 
+        "id": "100000927224707",
+        "confiance": "3"
+      }, 
+      {
+        "name": "Benjamin Cabon", 
+        "id": "100001015364838",
+        "confiance": "3"
+      }, 
+      {
+        "name": "Dat' Motos", 
+        "id": "100001187713756",
+        "confiance": "3"
+      }, 
+      {
+        "name": "Raphael Montouchet", 
+        "id": "100001368081821",
+        "confiance": "1"
+      }, 
+      {
+        "name": "Anthony Girard", 
+        "id": "100001479486182",
+        "confiance": "2"
+      }, 
+      {
+        "name": "Giuseppe Cindolo", 
+        "id": "100001640748402",
+        "confiance": "2"
+      }, 
+      {
+        "name": "Alexandre Capellaro", 
+        "id": "100001746677724",
+        "confiance": "3"
+      }, 
+      {
+        "name": "Henri Bensalouf", 
+        "id": "100002122118584",
+        "confiance": "1"
+      }, 
+      {
+        "name": "Eispri Stic", 
+        "id": "100002381065572",
+        "confiance": "3"
+      }, 
+      {
+        "name": "François Colin", 
+        "id": "100002397990292",
+        "confiance": "1"
+      }, 
+      {
+        "name": "Ariane Castellan", 
+        "id": "100003404233132",
+        "confiance": "3"
+      }, 
+      {
+        "name": "Miriam Labat", 
+        "id": "100003469768465",
+        "confiance": "2"
+      }, 
+      {
+        "name": "Cécile Gavot", 
+        "id": "100003594767197",
+        "confiance": "1"
+      }, 
+      {
+        "name": "Martin Bonnaure", 
+        "id": "100003720176250",
+        "confiance": "1"
+      }, 
+      {
+        "name": "Alex Bon", 
+        "id": "100003732697320",
+        "confiance": "1"
+      }, 
+      {
+        "name": "Latelier Coiffure", 
+        "id": "100006267483735",
+        "confiance": "3"
+      }, 
+      {
+        "name": "Mat Moulin", 
+        "id": "100006295987646",
+        "confiance": "1"
+      }
+    ], 
+    "paging": {
+      "next": "https://graph.facebook.com/100000214299365/friends?limit=5000&offset=5000&__after_id=100006295987646"
+    }
+  }
+}
