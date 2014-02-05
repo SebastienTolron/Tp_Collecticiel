@@ -18,8 +18,5 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Developpement/Graphstream/gs-talk-simtools-master/gs-talk-simtools-master/Demos/lib/gs-algo-1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Developpement/Graphstream/gs-talk-simtools-master/gs-talk-simtools-master/Demos/lib/gs-core-1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Developpement/Graphstream/gs-talk-simtools-master/gs-talk-simtools-master/Demos/lib/gs-ui-1.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

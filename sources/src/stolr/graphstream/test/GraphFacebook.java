@@ -1,6 +1,9 @@
 package stolr.graphstream.test;
 
 import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.Scanner;
+
 import org.graphstream.graph.Node;
 import org.graphstream.graph.Graph;
 import org.graphstream.graph.Edge;
@@ -39,6 +42,7 @@ public class GraphFacebook {
 							.get(i).getId(), mutualF.get(j).getUserF().getId());
 					
 					temp2.addAttribute("confiance", listUser.get(i).getConfiance()+"+"+mutualF.get(j).getUserF().getConfiance());
+
 				}
 
 			}
@@ -54,4 +58,5 @@ public class GraphFacebook {
 		return graph;
 	}
 
+	
 }
