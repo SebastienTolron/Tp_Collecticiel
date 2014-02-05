@@ -14,9 +14,9 @@ class ColorationThread extends Thread {
 		
 		tabNode+=  ";;;"+sBegin.getId();
 		
-		System.out.println("Salut");
+		//System.out.println("Salut");
 		try {
-			this.sleep(2000);
+			this.sleep(5000);
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -34,11 +34,14 @@ class ColorationThread extends Thread {
 						.setAttribute("ui.class", "rum");
 			} catch (Exception e) {
 				try {
-					graph.getEdge(nodes.next().getId() + "+" + sBegin.getId())
+					//System.out.println("Erreur e" );
+					//e.printStackTrace();
+					graph.getEdge(ntemp.getId() + "+" + sBegin.getId())
 							.setAttribute("ui.class", "rum");
 
 				} catch (Exception e2) {
 
+					e2.printStackTrace();
 					System.out.println(" null pointer exception");
 					System.out.println(" Next = "+ ntemp.getId());	
 					Graph temp = graph;
@@ -51,7 +54,8 @@ class ColorationThread extends Thread {
 		nodes = sBegin.getNeighborNodeIterator();
 		while (nodes.hasNext()) {
 			
-			if (!( tabNode.contains(nodes.next().getId())))
+			Node ntemp2 = nodes.next();
+			if (!(tabNode.contains(ntemp2.getId())))
 			{
 			ColorationThread trc = new ColorationThread();
 			trc.run(graph, nodes.next(),tabNode);
